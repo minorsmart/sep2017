@@ -24,7 +24,7 @@ Siemens biedt oplossingen waarmee digitale modellen van producten en processen k
 
 De HAN wil haar studenten de gelegenheid bieden kennis en ervaring op te laten doen met het *Digitale Fabriek* paradigma. Hiertoe dient een software omgeving te worden ingericht inclusief data sets. Bovendien moet worden onderzocht op welke wijze hieromheen onderwijs kan worden ontwikkeld (integratie met bestaande modules, nieuwe trajecten, etc.)
 
-In een eerste fase (6 weken) kan een verschillenanalyse worden uitgevoerd m.b.t. requirements en de bestaande infrastructuur. Dit onderdeel wordt afgerond met een plan van aanpak. In de tweede fase wordt een proefopstelling voorbereid, die aan het einde van de Minor Smart Industry kan worden gedemonstreerd aan studenten, medewerkers en partners van de HAN.
+In een de fase (6 weken) kan een verschillenanalyse worden uitgevoerd m.b.t. requirements en de bestaande infrastructuur. Dit onderdeel wordt afgerond met een plan van aanpak. In de tweede fase wordt een proefopstelling voorbereid, die aan het einde van de Minor Smart Industry kan worden gedemonstreerd aan studenten, medewerkers en partners van de HAN.
 
 Het project kan worden uitgevoerd door één of twee teams.
 
