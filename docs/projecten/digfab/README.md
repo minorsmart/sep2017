@@ -2,7 +2,7 @@
 
 ## Projecteigenaren en partners
 
-**De Faculteiten Techniek en Economie/ Management (HAN)** - Projecteigenaar
+**HAN De Faculteiten Techniek en Economie/ Management** - Projecteigenaar
 
 **Data Computing** - Partner
 
