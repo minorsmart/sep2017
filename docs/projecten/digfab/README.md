@@ -20,7 +20,7 @@ De HAN heeft als maatschappelijke opdracht studenten op te leiden tot waardevoll
 
 Dit begint al bij het ontwerp. Momenteel is de standaard dat er eerst fysieke *proof of concepts* worden ontwikkeld die onder praktijkomstandigheden worden getest. Zo kunnen de eerste ontwerpfouten worden geëlimineerd. Deze fase binnen het R&D-proces legt meestal een groot beslag op de schaarse bedrijfsmiddelen.
 
-Siemens biedt oplossingen waarmee digitale modellen van producten en processen kunnen worden gebouwd (*digital twins*) die in een virtuele omgeving kunnen worden getest. De eerste resultaten van vergelijkende onderzoeken tonen aan dat hiermee enorme kwaliteits- en efficientiewinsten kunnen worden behaald.
+Siemens biedt oplossingen waarmee digitale modellen van producten en processen kunnen worden gebouwd (*digital twins*) die in een virtuele omgeving kunnen worden getest. De eerste resultaten van vergelijkende onderzoeken (zie ook casus [Boeing](https://youtu.be/P-qJ6U-ixX0)) tonen aan dat hiermee enorme kwaliteits- en efficientiewinsten kunnen worden behaald.
 
 ## Contactpersonen
 + [Maurice Verheesen](https://www.linkedin.com/in/mauriceverheesen/) - Projectcoach
