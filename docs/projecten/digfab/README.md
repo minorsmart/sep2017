@@ -1,6 +1,6 @@
 # Project Digitale Fabriek
 
-## Beschrijving projecteigenaren en partners
+## Projecteigenaren en partners
 
 ### De Faculteiten Techniek en Economie/ Management (HAN)
 Projecteigenaar
