@@ -1,4 +1,4 @@
-![logo MSI](sep2017/images/logo 2 png transperent.png)
+![logo MSI](https://github.com/minorsmart/sep2017/blob/master/images/logo%202%20png%20transperent.png)
 
 # Welkom bij de HAN Minor Smart Industry!
 
