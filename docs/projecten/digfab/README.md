@@ -24,7 +24,7 @@ Siemens biedt oplossingen waarmee digitale modellen van producten en processen k
 
 De HAN wil haar studenten de gelegenheid bieden kennis en ervaring op te laten doen met het Digitale Fabriek paradigma. Hiertoe dient een software-omgeving te worden ingericht inclusief datasets. Bovendien moet worden onderzocht op welke wijze hieromheen onderwijs kan worden ontwikkeld (doelgroepen, integratie met bestaande modules, nieuwe trajecten, etc.)
 
-In de eerste fase (zes weken) kan een verschillenanalyse worden uitgevoerd m.b.t. requirements en de bestaande infrastructuur. Dit onderdeel wordt afgerond met een plan van aanpak. In de tweede fase wordt een proefopstelling voorbereid, die aan het einde van de Minor Smart Industry kan worden gedemonstreerd aan studenten, medewerkers en partners van de HAN.
+In de eerste fase (zes weken) kan een verschillenanalyse worden uitgevoerd m.b.t. requirements en de bestaande infrastructuur. Dit onderdeel wordt afgerond met een projectplan (SCRUM). In de tweede fase wordt een proefopstelling voorbereid, die aan het einde van de Minor Smart Industry kan worden gedemonstreerd aan studenten, medewerkers en partners van de HAN.
 
 Het project kan worden uitgevoerd door één of twee teams van ieder twee leden.
 
@@ -32,7 +32,7 @@ Het project kan worden uitgevoerd door één of twee teams van ieder twee leden.
 + [Maurice Verheesen](https://www.linkedin.com/in/mauriceverheesen/) - Projectcoach
 + [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Faculteit Economie en Management
 + [Jeroen van Elburg](https://www.linkedin.com/in/jeroen-b-van-elburg-b2552620/) - Faculteit Techniek
-+ [Erik Folgering](https://www.linkedin.com/in/efo73/) - Faculteit Techniek
++ [Erik Folgering](http://efemco.nl/Home/) - Faculteit Techniek
 + John Holweg - Siemens
 + Piet van Dongen - Siemens
 + Max Truijers - HAN ICT
