@@ -34,7 +34,7 @@ Siemens biedt oplossingen waarmee digitale modellen van producten en processen k
 + Erik van Gijzen - HAN ICT
 
 
-### Ter inspiratie
+## Ter inspiratie
 
 + [Siemens Tecnomatix](https://www.cardsplmsolutions.nl/producten/tecnomatix)
 + [Siemens IT Security](https://www.siemens.com/innovation/en/home/pictures-of-the-future/digitalization-and-software/it-security-dossier.html)
