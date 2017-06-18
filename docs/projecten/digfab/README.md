@@ -2,14 +2,11 @@
 
 ## Projecteigenaren en partners
 
-### De Faculteiten Techniek en Economie/ Management (HAN)
-Projecteigenaar
+**De Faculteiten Techniek en Economie/ Management (HAN)** - Projecteigenaar
 
-### Data Computing
-Partner
+**Data Computing** - Partner
 
-### Siemens
-Partner
+**Siemens** - Partner
 
 ## Projectbeschrijving
 De HAN heeft als maatschappelijke opdracht studenten op te leiden tot waardevolle professionals. Een belangrijk kwaliteitscriterium voor het onderwijs dat wordt aangeboden is de mate waarin de eindcompetenties aansluiten bij de behoeftes van de maatschappij - relevantie.
