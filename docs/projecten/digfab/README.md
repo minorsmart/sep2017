@@ -11,7 +11,7 @@
 ## Projectbeschrijving
 De HAN heeft als maatschappelijke opdracht studenten op te leiden tot waardevolle professionals. Een belangrijk kwaliteitscriterium voor het onderwijs dat wordt aangeboden is de mate waarin de eindcompetenties aansluiten bij de behoeftes van de maatschappij - relevantie.
 
-Één relevante maatschappelijke trend is de snelheid waarmee technologische innovaties worden gecreëerd. Nieuwe productietechnologieën, digitalisering en de hoge graad van connectiviteit tussen mens, hard- en software bieden ongekende mogelijkheden voor organisaties om de kwaliteit van hun processen en output te optimaliseren.
+Één relevante trend is de snelheid waarmee technologische innovaties worden gecreëerd. Nieuwe productietechnologieën, digitalisering en de hoge graad van connectiviteit tussen mens, hard- en software bieden ongekende mogelijkheden voor organisaties om de kwaliteit van hun processen en output te optimaliseren.
 
 ![Smart Industry](http://www.automation-valley.de/files/2013/02/Smart-Industry-schema.jpg)
 
