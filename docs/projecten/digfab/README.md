@@ -5,10 +5,10 @@
 ### De Faculteiten Techniek en Economie/ Management van de Hogeschool Arnhem en Nijmegen (HAN)
 Projecteigenaar
 
-### Data Computing (DC)
+### Data Computing
 Partner
 
-### Siemens (SIEM)
+### Siemens
 Partner
 
 ## Projectbeschrijving
