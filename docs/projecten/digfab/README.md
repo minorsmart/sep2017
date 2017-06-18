@@ -14,11 +14,11 @@ Partner
 ## Projectbeschrijving
 De HAN heeft als maatschappelijke opdracht studenten op te leiden tot waardevolle professionals. Een belangrijk kwaliteitscriterium voor het onderwijs dat wordt aangeboden is de mate waarin de eindcompetenties aansluiten bij de behoefte van de maatschappij, relevantie.
 
-Één relevante maatschappelijke trend is de snelheid waarmee technologisch innovaties worden gecreëerd. Nieuwe productietechnologieën, digitalisering en de hoge graad van connectiviteit tussen mens, hard- en software bieden ongekende mogelijkheden voor organisaties om hun de kwaliteit van processen en output te optimaliseren.
+Één relevante maatschappelijke trend is de snelheid waarmee technologisch innovaties worden gecreëerd. Nieuwe productietechnologieën, digitalisering en de hoge graad van connectiviteit tussen mens, hard- en software bieden ongekende mogelijkheden voor organisaties om de kwaliteit van hun processen en output te optimaliseren.
 
 ![Smart Industry](http://www.automation-valley.de/files/2013/02/Smart-Industry-schema.jpg)
 
-Het optimaliseren van proces- en productkwaliteit begint al bij het ontwerp. Momenteel is de standaard dat er eerst fysieke *proof of concepts* worden ontwikkeld die onder praktijkomstandigheden worden getest. Zo kunnen de eerste ontwerpfouten worden geëlimineerd. Deze fase binnen het R&D-proces legt een groot beslag op de schaarse bedrijfsmiddelen.
+Dit begint al bij het ontwerp. Momenteel is de standaard dat er eerst fysieke *proof of concepts* worden ontwikkeld die onder praktijkomstandigheden worden getest. Zo kunnen de eerste ontwerpfouten worden geëlimineerd. Deze fase binnen het R&D-proces legt een groot beslag op de schaarse bedrijfsmiddelen.
 
 Siemens biedt oplossingen waarmee digitale modellen van producten en processen kunnen worden gebouwd (*digital twins*) die in een virtuele omgeving kunnen worden getest. De eerste resultaten van vergelijkende onderzoeken tonen aan dat hiermee enorme kwaliteits- en efficientiewinsten kunnen worden behaald.
 
