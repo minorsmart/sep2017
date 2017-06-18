@@ -2,7 +2,7 @@
 
 ## Beschrijving projecteigenaren en partners
 
-### De Faculteiten Techniek en Economie/ Management van de Hogeschool Arnhem en Nijmegen (HAN)
+### De Faculteiten Techniek en Economie/ Management (HAN)
 Projecteigenaar
 
 ### Data Computing
