@@ -1,3 +1,5 @@
+![logo MSI](sep2017/images/logo 2 png transperent.png)
+
 # Welkom bij de HAN Minor Smart Industry!
 
 
