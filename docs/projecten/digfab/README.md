@@ -22,6 +22,8 @@ Dit begint al bij het ontwerp. Momenteel is de standaard dat er eerst fysieke *p
 
 Siemens biedt oplossingen waarmee digitale modellen van producten en processen kunnen worden gebouwd (*digital twins*) die in een virtuele omgeving kunnen worden getest. De eerste resultaten van vergelijkende onderzoeken (zie ook casus [Boeing](https://youtu.be/P-qJ6U-ixX0)) tonen aan dat hiermee enorme kwaliteits- en efficientiewinsten kunnen worden behaald.
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/5S1V2cG_lo4?list=PLF2310E3F5768880D" frameborder="0" allowfullscreen></iframe>
+
 De HAN wil haar studenten de gelegenheid bieden kennis en ervaring op te laten doen met het Digitale Fabriek paradigma. Hiertoe dient een software-omgeving te worden ingericht inclusief datasets. Bovendien moet worden onderzocht op welke wijze hieromheen onderwijs kan worden ontwikkeld (integratie met bestaande modules, nieuwe trajecten, etc.)
 
 In de eerste fase (zes weken) kan een verschillenanalyse worden uitgevoerd m.b.t. requirements en de bestaande infrastructuur. Dit onderdeel wordt afgerond met een plan van aanpak. In de tweede fase wordt een proefopstelling voorbereid, die aan het einde van de Minor Smart Industry kan worden gedemonstreerd aan studenten, medewerkers en partners van de HAN.
