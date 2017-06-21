@@ -2,6 +2,6 @@
 
 # Welkom bij de HAN Minor Smart Industry!
 
-Dit is de repository van de HAN Minor Smart Industry S1 2017/18. De folder *docs* is bedoeld om documentatie op te slaan. Hier staan onder andere de startdocumenten voor de afzonderlijke projecten.
+Dit is de repository van de HAN Minor Smart Industry S1 2017/18. De folder `docs` is bedoeld om documentatie op te slaan. Hier staan onder andere de startdocumenten voor de afzonderlijke projecten. Onder `images` worden alle afbeeldingen bewaard, die gebruikt worden in de documenten. `vids` is de plek om video's op te slaan.
 
 
