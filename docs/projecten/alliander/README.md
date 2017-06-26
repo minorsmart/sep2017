@@ -26,7 +26,7 @@ In de eerste fase (zes weken) kan een verschillenanalyse worden uitgevoerd m.b.t
 Het project kan worden uitgevoerd door één of twee teams van ieder twee leden.
 
 ## Contactpersonen
-+ [Maurice Verheesen](https://www.linkedin.com/in/mauriceverheesen/) - Projectcoach
++ [Maurice Verheesen](https://www.linkedin.com/in/mauriceverheesen/) - [Data Computing](https://www.datacomputing.nl/) - Projectcoach
 + [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Faculteit Economie en Management
 + [Jeroen van Elburg](https://www.linkedin.com/in/jeroen-b-van-elburg-b2552620/) - Faculteit Techniek
 + [Erik Folgering](http://efemco.nl/Home/) - Faculteit Techniek
