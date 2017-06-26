@@ -10,7 +10,7 @@ Succes dwing je af. De Directie van Goma BV wil dit ook in de toekomst blijven d
 
 Dit project zal bestaan uit twee fases van ieder zes weken. In fase 1 wordt een externe en interne analyse uitgevoerd en het theoretisch kader omtrent Smart Industry en innovatiemanagement opgebouwd. Bovendien wordt een plan gemaakt voor het empirisch onderzoek binnen de organisatie. De resultaten worden gepresenteerd aan alle betrokkenen.
 
-Als de projecteigenaar het plan goedkeurt, begint fase 2 en kunnen de studenten starten met dataverzameling. Het onderzoekstraject voorziet in milestones en een overlegstructuur. Er zal tevens een platform worden ingericht waarop alle betrokkenen de voortgang van het onderzoek kunnen volgen. Het project wordt afgerond met een adviesrapport en een presentatie tijdens de Smart Industry Seminar begin 2018. 
+Als de projecteigenaar het plan goedkeurt, begint fase 2 en kunnen de studenten starten met dataverzameling. Het onderzoekstraject voorziet in milestones en een overlegstructuur. Er zal tevens een platform worden ingericht waarop alle betrokkenen de voortgang van het onderzoek kunnen volgen. Het project wordt afgerond met een adviesrapport en een presentatie tijdens de Smart Industry Seminar primo 2018. 
 
 
 ## Contactpersonen
