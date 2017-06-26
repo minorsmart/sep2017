@@ -1,7 +1,7 @@
 # Smart Industry Transitie
 
 ## Projecteigenaren en partners
-+ **Goma** - Projecteigenaar
++ **Goma BV** - Projecteigenaar
 + **Innovatiehub** - Partner
  
 
