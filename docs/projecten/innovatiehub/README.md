@@ -12,9 +12,9 @@ Een aantal bedrijven uit de regio zijn inmiddels uitgegroeid tot iconen op het g
 
 Een initiatief dat hierbinnen past is de ontwikkeling en uitvoering van een Smart Industry scan. Met deze scan krijgt een bedrijf een overzicht van de mogelijkheden die Smart Industry biedt voor zijn specifieke casus en kan hij bepalen wat de gevolgen zullen zijn voor het bedrijfsmodel- en de bedrijfsvoering.
 
-Dit project zal bestaan uit twee fases van ieder zes weken. In fase 1 wordt een externe en interne analyse uitgevoerd en het theoretisch kader omtrent Smart Industry en innovatiemanagement opgebouwd. Bovendien wordt een plan gemaakt voor het empirisch onderzoek binnen de organisatie. De resultaten worden gepresenteerd aan alle betrokkenen.
+De scan zal door een team van twee studenten (met technische en bedrijfskundige achtergrond) in twee fases worden ontwikkeld. In fase 1 (zes weken) wordt het fenomeen bedrijfsscans onderzocht, bepaald op welke dimensies 'Smartness' bij productiebedrijven kan worden gemeten, via welke methodes deze metingen kunnen worden verricht en in welke vormen de data het beste aan de klant kan worden teruggegeven. Hieruit volgen conclusies en een advies.
 
-Als de projecteigenaar het plan goedkeurt, begint fase 2 en kunnen de studenten starten met dataverzameling. Het onderzoekstraject voorziet in milestones en een overlegstructuur. Er zal tevens een platform worden ingericht waarop alle betrokkenen de voortgang van het onderzoek kunnen volgen. Het project wordt afgerond met een adviesrapport en een presentatie tijdens de Smart Industry Seminar primo 2018. 
+Als de projecteigenaar en de partners overtuigd zijn van het model, begint fase 2 en kunnen de studenten starten met het bouwen van de scan. Het onderzoekstraject voorziet in milestones en een overlegstructuur. Er zal tevens een platform worden ingericht waarop alle betrokkenen de voortgang van het onderzoek kunnen volgen. Het project wordt afgerond met een adviesrapport en een presentatie tijdens de Smart Industry Seminar primo 2018. 
 
 
 ## Contactpersonen
