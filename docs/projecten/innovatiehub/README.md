@@ -6,7 +6,7 @@
  
 
 ## Projectbeschrijving
-Het Achterhoekse bedrijfsleven is momenteel volop bezig met Smart Industry. Een aantal bedrijven uit de regio zijn inmiddels uitgegroeid tot iconen op dit gebied die zowel in Nederland als buiten de landsgrenzen collega's inspireren. Het plaatselijke MKB is ervan overtuigd dat technologische innovatie de belangijkste groeimotor. Dat ze het serieus menen, blijkt uit het feit dat veruit de meeste van de Gelderse Innovatiehubs in de Achterhoek gevestigd zijn. Hier krijgt jong talent de faciliteiten en ruimte om kennis- en innovatievragen van bedrijven te onderzoeken en te beantwoorden.
+Het Achterhoekse bedrijfsleven is momenteel volop bezig met Smart Industry. Een aantal bedrijven uit de regio zijn inmiddels uitgegroeid tot iconen op dit gebied die zowel in Nederland als buiten de landsgrenzen collega's inspireren. Het plaatselijke MKB is ervan overtuigd dat technologische innovatie de belangijkste groeimotor is en de komende jaren zal blijven. Dat ze het serieus menen, blijkt uit het feit dat veruit de meeste van de Gelderse Innovatiehubs in de Achterhoek gevestigd zijn. Hier krijgt jong talent de faciliteiten en ruimte om kennis- en innovatievragen van bedrijven te onderzoeken en te beantwoorden.
 
 Dit project zal bestaan uit twee fases van ieder zes weken. In fase 1 wordt een externe en interne analyse uitgevoerd en het theoretisch kader omtrent Smart Industry en innovatiemanagement opgebouwd. Bovendien wordt een plan gemaakt voor het empirisch onderzoek binnen de organisatie. De resultaten worden gepresenteerd aan alle betrokkenen.
 
