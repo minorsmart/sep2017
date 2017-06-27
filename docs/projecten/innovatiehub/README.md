@@ -6,7 +6,11 @@
  
 
 ## Projectbeschrijving
-Het Achterhoekse bedrijfsleven is momenteel volop bezig met Smart Industry. Een aantal bedrijven uit de regio zijn inmiddels uitgegroeid tot iconen op dit gebied die zowel in Nederland als buiten de landsgrenzen collega's inspireren. Het plaatselijke MKB is ervan overtuigd dat technologische innovatie de belangijkste groeimotor is en de komende jaren zal blijven. Dat ze het serieus menen, blijkt uit het feit dat veruit de meeste van de Gelderse Innovatiehubs in de Achterhoek gevestigd zijn. Hier krijgt jong talent de faciliteiten en ruimte om kennis- en innovatievragen van bedrijven te onderzoeken en te beantwoorden.
+Het Achterhoekse bedrijfsleven is momenteel volop bezig met Smart Industry. Het plaatselijke MKB is ervan overtuigd dat technologische innovatie de belangijkste groeimotor is en de komende jaren zal blijven. Dat ze het serieus menen, blijkt uit het feit dat veruit de meeste van de Gelderse Innovatiehubs in de Achterhoek gevestigd zijn. Hier krijgt jong talent de faciliteiten en ruimte om kennis- en innovatievragen van bedrijven te onderzoeken en te beantwoorden.
+
+Een aantal bedrijven uit de regio zijn inmiddels uitgegroeid tot iconen op het gebied van Smart Industry. Momenteel is er veel aandacht voor het thema en worden ondernemers geïnspireerd, maar hiermee ontstaat ook veel behoefte aan advies en ondersteuning bij de start en implementatie van het concept. De Innovatiehubs en de Hogeschool van Arnhem en Nijmegen zien het als hun rol om bedrijven hierin te voorzien.
+
+Een initiatief dat hierbinnen past is de ontwikkeling en uitvoering van een Smart Industry scan. Met deze scan krijgt een bedrijf een overzicht van de mogelijkheden die Smart Industry biedt voor zijn specifieke casus en kan hij bepalen wat de gevolgen zullen zijn voor het bedrijfsmodel- en de bedrijfsvoering.
 
 Dit project zal bestaan uit twee fases van ieder zes weken. In fase 1 wordt een externe en interne analyse uitgevoerd en het theoretisch kader omtrent Smart Industry en innovatiemanagement opgebouwd. Bovendien wordt een plan gemaakt voor het empirisch onderzoek binnen de organisatie. De resultaten worden gepresenteerd aan alle betrokkenen.
 
