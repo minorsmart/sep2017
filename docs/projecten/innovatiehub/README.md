@@ -10,7 +10,7 @@ Het Achterhoekse bedrijfsleven is momenteel volop bezig met Smart Industry. Het 
 
 Een aantal bedrijven uit de regio zijn inmiddels uitgegroeid tot iconen op het gebied van Smart Industry. Momenteel is er veel aandacht voor het thema en raken ondernemers geïnspireerd, maar hiermee ontstaat ook een groeiende behoefte aan advies en ondersteuning bij de start en implementatie van het concept. De Innovatiehubs en de Hogeschool van Arnhem en Nijmegen zien het als hun taak om bedrijven hierin te voorzien.
 
-Bijvoorbeeld door een Smart Industry scan aan te bieden. Met deze scan krijgt een bedrijf een overzicht van de mogelijkheden die Smart Industry biedt voor zijn specifieke casus en kan hij bepalen wat de gevolgen zullen zijn voor het businessmodel en de bedrijfsvoering.
+Bijvoorbeeld door een Smart Industry scan aan te bieden. Met deze scan krijgt een ondernemer een overzicht van de mogelijkheden die Smart Industry biedt voor zijn specifieke casus en kan hij bepalen wat de gevolgen zullen zijn voor het businessmodel en de bedrijfsvoering.
 
 De scan zal door een team van twee studenten (met technische en bedrijfskundige achtergrond) in twee fases worden ontwikkeld. In fase 1 (zes weken) wordt het fenomeen bedrijfsscans onderzocht, bepaald op welke dimensies 'Smartness' bij productiebedrijven kan worden gemeten, via welke methodes deze metingen kunnen worden verricht en in welke vorm de data het beste aan de klant kan worden teruggegeven. De conclusies worden met de betrokkenen besproken.
 
