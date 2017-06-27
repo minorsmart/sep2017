@@ -10,11 +10,11 @@ Het Achterhoekse bedrijfsleven is momenteel volop bezig met Smart Industry. Het 
 
 Een aantal bedrijven uit de regio zijn inmiddels uitgegroeid tot iconen op het gebied van Smart Industry. Momenteel is er veel aandacht voor het thema en worden ondernemers geïnspireerd, maar hiermee ontstaat ook een groeiende behoefte aan advies en ondersteuning bij de start en implementatie van het concept. De Innovatiehubs en de Hogeschool van Arnhem en Nijmegen zien het als hun rol om bedrijven hierin te voorzien.
 
-Een initiatief dat hierbinnen past, is de ontwikkeling en uitvoering van een Smart Industry scan. Met deze scan krijgt een bedrijf een overzicht van de mogelijkheden die Smart Industry biedt voor zijn specifieke casus en kan hij bepalen wat de gevolgen zullen zijn voor het bedrijfsmodel- en de bedrijfsvoering.
+Bijvoorbeeld door een Smart Industry scan aan te bieden. Met deze scan krijgt een bedrijf een overzicht van de mogelijkheden die Smart Industry biedt voor zijn specifieke casus en kan hij bepalen wat de gevolgen zullen zijn voor het bedrijfsmodel- en de bedrijfsvoering.
 
-De scan zal door een team van twee studenten (met technische en bedrijfskundige achtergrond) in twee fases worden ontwikkeld. In fase 1 (zes weken) wordt het fenomeen bedrijfsscans onderzocht, bepaald op welke dimensies 'Smartness' bij productiebedrijven kan worden gemeten, via welke methodes deze metingen kunnen worden verricht en in welke vormen de data het beste aan de klant kan worden teruggegeven. Hieruit volgen conclusies en een advies.
+De scan zal door een team van twee studenten (met technische en bedrijfskundige achtergrond) in twee fases worden ontwikkeld. In fase 1 (zes weken) wordt het fenomeen bedrijfsscans onderzocht, bepaald op welke dimensies 'Smartness' bij productiebedrijven kan worden gemeten, via welke methodes deze metingen kunnen worden verricht en in welke vorm de data het beste aan de klant kan worden teruggegeven. De conclusies worden met de betrokkenen besproken.
 
-Als de projecteigenaar en de partners overtuigd zijn van het model, begint fase 2 en kunnen de studenten starten met het bouwen van de scan. Het onderzoekstraject voorziet in milestones en een overlegstructuur. Er zal tevens een platform worden ingericht waarop alle betrokkenen de voortgang van het onderzoek kunnen volgen. Het project wordt afgerond met een adviesrapport en een presentatie tijdens de Smart Industry Seminar primo 2018. 
+Als de projecteigenaar en de partners overtuigd zijn van het model, begint fase 2 (zes weken) en kunnen de studenten starten met het bouwen van de scan. Het onderzoekstraject voorziet in milestones en een overlegstructuur. Er zal tevens een platform worden ingericht waarop alle betrokkenen de voortgang van het onderzoek kunnen volgen. Het project wordt afgerond met een adviesrapport en een presentatie tijdens de Smart Industry Seminar primo 2018. 
 
 
 ## Contactpersonen
