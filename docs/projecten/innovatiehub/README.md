@@ -14,7 +14,7 @@ Bijvoorbeeld door een Smart Industry scan aan te bieden. Met deze scan krijgt ee
 
 De scan zal door een team van twee studenten (met technische en bedrijfskundige achtergrond) in twee fases worden ontwikkeld. In fase 1 (zes weken) wordt het fenomeen bedrijfsscans onderzocht, bepaald op welke dimensies 'Smartness' bij productiebedrijven kan worden gemeten, via welke methodes deze metingen kunnen worden verricht en in welke vorm de data het beste aan de klant kan worden teruggegeven. De conclusies worden met de betrokkenen besproken.
 
-Als de projecteigenaar en de partners overtuigd zijn van het model, begint fase 2 (zes weken) en kunnen de studenten starten met het bouwen van de scan. Het onderzoekstraject voorziet in milestones en een overlegstructuur. Er zal tevens een platform worden ingericht waarop alle betrokkenen de voortgang van het onderzoek kunnen volgen. Het project wordt afgerond met een adviesrapport en een presentatie tijdens de Smart Industry Seminar primo 2018. 
+Als de projecteigenaar en de partners overtuigd zijn van het model, begint fase 2 (zes weken) en kunnen de studenten starten met het bouwen van de scan. Het onderzoekstraject voorziet in milestones en een overlegstructuur. Er zal tevens een platform worden ingericht waarop alle betrokkenen de voortgang van het onderzoek kunnen volgen. Het project wordt afgerond met een tool, tutorial en een presentatie tijdens de Smart Industry Seminar primo 2018. 
 
 
 ## Contactpersonen
