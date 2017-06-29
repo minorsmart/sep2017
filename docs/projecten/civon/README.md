@@ -1,7 +1,7 @@
 # Smart Industry Scan
 
 ## Projecteigenaren en partners
-+ **Innovatiehub** - Projecteigenaar
++ **CIVON** - Projecteigenaar
 + **Hogeschool Arnhem en Nijmegen**- Partner
  
 
