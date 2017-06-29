@@ -1,7 +1,7 @@
 # Smart Industry Scan
 
 ## Projecteigenaren en partners
-+ **CIVON** - Projecteigenaar
++ **[Civon](http://www.civon.nl/)** - Projecteigenaar
 + **Hogeschool Arnhem en Nijmegen**- Partner
  
 
@@ -20,4 +20,4 @@ Als de projecteigenaar en de partners overtuigd zijn van het model, begint fase 
 ## Contactpersonen
 + [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach**
 + [Anne-Marie Haanstra](https://www.han.nl/onderzoek/mensen/anne-marie-haanstra/) - Coördinator Kenniscentrum Business Development & Co-creation / HAN FEM
-+ [Sandra Junier](https://www.linkedin.com/in/sandrajunier/?ppe=1) - Projectmanager Innovatiehub [Civon](http://www.civon.nl/) & Eigenaar TCVO (TrainingsCentrum Voor Ontwikkeling)
++ [Sandra Junier](https://www.linkedin.com/in/sandrajunier/?ppe=1) - Projectmanager [Innovatiehub](http://www.innovatiehub.com/innovatiehub-icer) & Eigenaar TCVO (TrainingsCentrum Voor Ontwikkeling)
