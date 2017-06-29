@@ -2,7 +2,7 @@
 
 ## Projecteigenaren en partners
 + **Goma BV** - Projecteigenaar
-+ **Innovatiehub** - Partner
++ **CIVON** - Partner
  
 
 ## Projectbeschrijving
