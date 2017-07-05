@@ -1,6 +1,6 @@
-Het nieuwe werken (HNW) en HR Data
+# Het nieuwe werken (HNW) en HR Data
 
-Projecteigenaar
+## Projecteigenaar
 
 * Alliander - Projecteigenaar
 
