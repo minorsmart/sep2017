@@ -1,4 +1,4 @@
-# Smart 5S (5+1S)
+# Smart 5S (S5S)
 
 ## Projecteigenaren en partners
 + **Vink Techniek** - Projecteigenaar
