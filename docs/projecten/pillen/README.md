@@ -9,7 +9,7 @@ tekst
 
 ## Contactpersonen
 + [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach** 
-+ [Henry Klein Hesselink](linkedin.com/in/henry-klein-hesselink-073b1358) - Manager Technical Logistic [Pillen BV](http://www.pillen.eu/)
++ [Henry Klein Hesselink](linkedin.com/in/henry-klein-hesselink-073b1358) - Manager Technical Logistic [Pillen Group](http://www.pillen.eu/)
 
 ## Inspiratie
 + [Customer Journey](https://drive.google.com/file/d/0B63Xv-VjVpxSbzRuNHZwUlVvbjA/view?usp=sharing)
