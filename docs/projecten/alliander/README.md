@@ -1,46 +1,29 @@
-# Project Digitale Fabriek
+Het nieuwe werken (HNW) en HR Data
 
-## Projecteigenaren en partners
+Projecteigenaar
 
-**HAN Faculteiten Techniek en Economie/ Management** - Projecteigenaar
+* Alliander - Projecteigenaar
 
-**Data Computing** - Partner
+Projectbeschrijving
 
-**Siemens** - Partner
+Het nieuwe werken en HR Data. Het ene (HNW) is ingevoerd en het andere (HR Data) staat nog in de kinderschoenen. Om beide verder vorm te geven, gaat een team van twee studenten aan de hand van data onderzoeken hoe de huidige netwerken van medewerkers zijn vormgegeven. HNW zou moeten bijdragen aan het multidisciplinair aanpakken van de vraagstellingen in de organisatie om zich te kunnen blijven manifesteren in de wereld van nieuwe (groene) energie.
 
-## Projectbeschrijving
-De HAN heeft als maatschappelijke opdracht studenten op te leiden tot waardevolle professionals. Een belangrijk kwaliteitscriterium voor het onderwijs dat wordt aangeboden is de mate waarin de eindcompetenties aansluiten bij de behoeftes van de maatschappij - relevantie.
+Het project zal bestaan uit een interne- en externe analyse waarbij duidelijk moet worden welke ontwikkelingen spelen en wat dit aan een verzameling van kennis en capabilities vraagt van Alliander. Vervolgens moet dit inzicht worden geprojecteerd op de organisatie van Alliander. In welke afdelingen is welke kennis en capability te vinden. En wat vraagt dit voor de samenwerking tussen medewerkers. Ook wordt er een plan gemaakt hoe het praktijkonderzoek uitgevoerd gaat worden. Als de uitkomsten van de analyse en het plan na presentatie aan de stakeholders, wordt goedgekeurd, volgt het data onderzoek. Als laatste wordt de data vergeleken met de gegevens uit de interne- en externe analyse en zal advies gegeven worden over welke samenwerkingsverbanden sterker vormgegeven zouden moeten worden.
 
-Één relevante trend is de snelheid waarmee technologische innovaties worden gecreëerd. Nieuwe productietechnologieën, digitalisering en de hoge graad van connectiviteit tussen mens, hard- en software bieden ongekende mogelijkheden voor organisaties om de kwaliteit van hun processen en output te optimaliseren.
+Het onderzoekstraject voorziet in milestones en een overlegstructuur. Er zal tevens een platform worden ingericht waarop alle betrokkenen de voortgang van het onderzoek kunnen volgen. Het project wordt afgerond met een
 
-![Smart Industry](http://www.automation-valley.de/files/2013/02/Smart-Industry-schema.jpg)
+Contactpersonen
 
-Dit begint al bij het ontwerp. Momenteel is de standaard dat er eerst fysieke *proof of concepts* worden ontwikkeld die onder praktijkomstandigheden worden getest. Zo kunnen de eerste ontwerpfouten worden geëlimineerd. Deze fase binnen het R&D-proces legt meestal een groot beslag op de schaarse bedrijfsmiddelen en wordt gekenmerkt door een hoge mate van risico.
+* Christel Kooijmans – HR Business Partner Alliander
 
-Siemens biedt oplossingen waarmee digitale modellen van producten en processen kunnen worden gebouwd (*digital twins*) die in een virtuele omgeving kunnen worden getest. De eerste resultaten van vergelijkende onderzoeken (zie ook casus [Boeing](https://youtu.be/P-qJ6U-ixX0)) tonen aan dat hiermee enorme kwaliteits- en efficientiewinsten kunnen worden behaald.
+* Thijs Boersen – Manager HR Analytics Alliander
 
-De HAN wil haar studenten de gelegenheid bieden kennis en ervaring op te laten doen met het Digitale Fabriek paradigma. Hiertoe dient een software-omgeving te worden ingericht inclusief datasets. Bovendien moet worden onderzocht op welke wijze hieromheen onderwijs kan worden ontwikkeld (doelgroepen, integratie met bestaande modules, nieuwe trajecten, etc.)
+* Marjolein Burghouts – Medewerker HR Analytics Alliander * Witek ten Hove - Coördinator HAN Minor Smart Industry – Projectcoach?
 
-In de eerste fase (zes weken) kan een verschillenanalyse worden uitgevoerd m.b.t. requirements en de bestaande infrastructuur. Dit onderdeel wordt afgerond met een projectplan (SCRUM). In de tweede fase wordt een proefopstelling voorbereid, die aan het einde van de Minor Smart Industry kan worden gedemonstreerd aan studenten, medewerkers en partners van de HAN.
+* Marielle Seegers – Docent Han Minor Smart Industrie – Projectcoach?
 
-Het project kan worden uitgevoerd door één of twee teams van ieder twee leden.
+Inspiratie
 
-## Contactpersonen
-+ [Maurice Verheesen](https://www.linkedin.com/in/mauriceverheesen/) - [Data Computing](https://www.datacomputing.nl/) - Projectcoach
-+ [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Faculteit Economie en Management
-+ [Jeroen van Elburg](https://www.linkedin.com/in/jeroen-b-van-elburg-b2552620/) - Faculteit Techniek
-+ [Erik Folgering](http://efemco.nl/Home/) - Faculteit Techniek
-+ John Holweg - Siemens
-+ Piet van Dongen - Siemens
-+ Max Truijers - HAN ICT
-+ Werner Balduk - HAN ICT
-+ Erik van Gijzen - HAN ICT
+* Het nieuwe werken
 
-
-## Ter inspiratie
-
-+ [Siemens Tecnomatix](https://www.cardsplmsolutions.nl/producten/tecnomatix)
-+ [Siemens IT Security](https://www.siemens.com/innovation/en/home/pictures-of-the-future/digitalization-and-software/it-security-dossier.html)
-+ [Measuring Augmented Reality Impacts at Boeing](https://youtu.be/P-qJ6U-ixX0)
-+ [Smart Industry](https://www.smartindustry.nl/)
-
+* Data bij Google
