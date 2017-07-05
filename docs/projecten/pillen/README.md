@@ -1,4 +1,4 @@
-# QRM Feasability Study
+# QRM Feasibility Study
 
 ## Projecteigenaren en partners
 + **Vink Techniek** - Projecteigenaar
