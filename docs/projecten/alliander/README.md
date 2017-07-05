@@ -2,7 +2,7 @@
 
 ## Projecteigenaar
 
-* Alliander - Projecteigenaar
+* **Alliander** - Projecteigenaar
 
 ## Projectbeschrijving
 
