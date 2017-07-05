@@ -9,7 +9,7 @@ tekst
 
 ## Contactpersonen
 + [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach** 
-+ [Dion Penterman](linkedin.com/in/dionpenterman) - Online Marketing Consultant BeSite [BeSite](https://www.besite.nl/)
++ [Dion Penterman](linkedin.com/in/dionpenterman) - Online Marketing Consultant [BeSite](https://www.besite.nl/)
 
 ## Inspiratie
 + [Customer Journey](https://drive.google.com/file/d/0B63Xv-VjVpxSbzRuNHZwUlVvbjA/view?usp=sharing)
