@@ -4,7 +4,7 @@
 
 * Alliander - Projecteigenaar
 
-Projectbeschrijving
+## Projectbeschrijving
 
 Het nieuwe werken en HR Data. Het ene (HNW) is ingevoerd en het andere (HR Data) staat nog in de kinderschoenen. Om beide verder vorm te geven, gaat een team van twee studenten aan de hand van data onderzoeken hoe de huidige netwerken van medewerkers zijn vormgegeven. HNW zou moeten bijdragen aan het multidisciplinair aanpakken van de vraagstellingen in de organisatie om zich te kunnen blijven manifesteren in de wereld van nieuwe (groene) energie.
 
@@ -12,18 +12,15 @@ Het project zal bestaan uit een interne- en externe analyse waarbij duidelijk mo
 
 Het onderzoekstraject voorziet in milestones en een overlegstructuur. Er zal tevens een platform worden ingericht waarop alle betrokkenen de voortgang van het onderzoek kunnen volgen. Het project wordt afgerond met een
 
-Contactpersonen
+## Contactpersonen
 
 * Christel Kooijmans – HR Business Partner Alliander
-
 * Thijs Boersen – Manager HR Analytics Alliander
-
-* Marjolein Burghouts – Medewerker HR Analytics Alliander * Witek ten Hove - Coördinator HAN Minor Smart Industry – Projectcoach?
-
+* Marjolein Burghouts – Medewerker HR Analytics Alliander
+* Witek ten Hove - Coördinator HAN Minor Smart Industry – Projectcoach?
 * Marielle Seegers – Docent Han Minor Smart Industrie – Projectcoach?
 
-Inspiratie
+## Inspiratie
 
 * Het nieuwe werken
-
 * Data bij Google
