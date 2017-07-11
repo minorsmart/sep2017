@@ -45,5 +45,6 @@ Het project kan worden uitgevoerd door één of twee teams van ieder twee leden.
 + [Siemens Tecnomatix](https://www.cardsplmsolutions.nl/producten/tecnomatix)
 + [Siemens IT Security](https://www.siemens.com/innovation/en/home/pictures-of-the-future/digitalization-and-software/it-security-dossier.html)
 + [Measuring Augmented Reality Impacts at Boeing](https://youtu.be/P-qJ6U-ixX0)
++ [Minor Smart Manufacturing and Robotics HHS - Tape laying system](http://www.smrdelft.nl/tudelft-tape-laying-system/)
 + [Smart Industry](https://www.smartindustry.nl/)
 
