@@ -32,7 +32,7 @@ Het project kan worden uitgevoerd door één of twee teams van ieder twee leden.
 + [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Faculteit Economie en Management
 + [Jeroen van Elburg](https://www.linkedin.com/in/jeroen-b-van-elburg-b2552620/) - Faculteit Techniek
 + [Erik Folgering](https://www.linkedin.com/in/efo73/?ppe=1) - Faculteit Techniek
-+ [Peter Verschut](linkedin.com/in/peter-verschut-94b6116)
++ [Peter Verschut](linkedin.com/in/peter-verschut-94b6116) - Faculteit Techniek / Automotive
 + John Holweg - Siemens
 + Piet van Dongen - Siemens
 + Max Truijers - HAN ICT
