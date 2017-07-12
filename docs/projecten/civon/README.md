@@ -18,6 +18,6 @@ Als de projecteigenaar en de partners overtuigd zijn van het model, begint fase 
 
 
 ## Contactpersonen
-+ [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach**
++ [Franz Maurer](https://www.linkedin.com/in/franz-maurer-8060a82/?ppe=1) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach**
 + [Anne-Marie Haanstra](https://www.han.nl/onderzoek/mensen/anne-marie-haanstra/) - Coördinator Kenniscentrum Business Development & Co-creation / HAN FEM
 + [Sandra Junier](https://www.linkedin.com/in/sandrajunier/?ppe=1) - Projectmanager [Innovatiehub](http://www.innovatiehub.com/innovatiehub-icer) & Eigenaar TCVO (TrainingsCentrum Voor Ontwikkeling)
