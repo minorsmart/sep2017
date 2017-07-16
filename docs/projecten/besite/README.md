@@ -1,10 +1,17 @@
-# Web Technology
+# Automated Website Testing
 
 ## Projecteigenaren en partners
 + **Besite** - Projecteigenaar
++ **Hogeschool Arnhem en Nijmegen** - Partner
 
 ## Projectbeschrijving
-tekst
+Besite ontwikkelt complete web-systemen voor bedrijfsprocessen. Hiermee kunnen organisaties de efficientie en effectiviteit van hun kritische processen optimaliseren en de kwaliteit hiervan monitoren. Gedurende de ontwikkeling worden vaak nog handmatig controles uitgevoerd op de werking de systemen. Er bestaan tools die bepaalde kwaliteitscontroles kunnen automatiseren.
+
+In het kader van de Minor Smart Industry zullen de mogelijkheden voor *automate website testing* voor Besite worden onderzocht. Een team van twee studenten gaat uitzoeken op welke dimensies de kwaliteit van web-systemen kan worden beoordeeld, de verschillende tools voor geautomatiseerde kwaliteitscontrole inventariseren en een *proof of concept* opleveren. 
+
+Het project bestaat uit twee fases. In fase 1 (zes weken) wordt het theoretisch kader opgebouwd en een concept ontwikkeld. De uitkomsten worden met de betrokkenen besproken. Als de projecteigenaar en de partners overtuigd zijn van het concept, begint fase 2 (zes weken) en kunnen de studenten starten met het bouwen een modelopstelling.
+
+Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een overlegstructuur. Via een (web-based) informatiesysteem kunnen alle stakeholders bij voor hun relevante informatie. Het project wordt afgerond met een concept, tutorial en een presentatie tijdens de Smart Industry Seminar primo 2018.
 
 
 ## Contactpersonen
@@ -12,6 +19,5 @@ tekst
 + [Dion Penterman](linkedin.com/in/dionpenterman) - Online Marketing Consultant [BeSite](https://www.besite.nl/)
 
 ## Inspiratie
-+ [Customer Journey](https://drive.google.com/file/d/0B63Xv-VjVpxSbzRuNHZwUlVvbjA/view?usp=sharing)
-+ [Kwaliteitsborging Industrie 4.0](https://www.qz-online.de/qz-zeitschrift/archiv/artikel/fuer-industrie-4-0-braucht-es-eine-qualitaetssicherung-4-0-835061.html)
-+ [Kwaliteitsdimensies](https://docs.google.com/spreadsheets/d/1OdiOwUAIRcCGG9HQSzZvm9D9a9DsSRpl3VC3fYX8I7Y/pubhtml)
++ [Web Testing](https://en.wikipedia.org/wiki/Web_testing)
++ [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
