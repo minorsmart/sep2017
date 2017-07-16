@@ -7,7 +7,7 @@
 ## Projectbeschrijving
 De basis van de 5S-filosofie gaat terug tot aan het begin van de vorige eeuw en is inmiddels een wereldwijde standaard voor de inrichting van werkomgevingen. Kunnen we 100 jaar later met Smart Industry een nieuwe impuls geven aan dit paradigma?
 
-Vink Techniek wil dit graag laten onderzoeken en een business case ontwikkelen voor de eigen productievloer. Een team van twee studenten van de Minor Smart Industry gaan een template ontwikkelen voor S5S en Vink adviseren over de implementatie. De template omvat het de hele PDCA-cyclus van doelstellingen tot verbeteriteraties.
+Vink Techniek wil dit graag laten onderzoeken en een business case ontwikkelen voor de eigen productievloer. Een team van twee studenten van de Minor Smart Industry gaan een template ontwikkelen voor S5S en Vink adviseren over de implementatie. De template omvat de hele PDCA-cyclus van doelstellingen tot verbeteriteraties.
 
 De template zal door een team van twee studenten in twee fases worden ontwikkeld. In fase 1 (zes weken) wordt het theoretisch kader opgebouwd en een concept ontwikkeld. De uitkomsten worden met de betrokkenen besproken. Als de projecteigenaar en de partners overtuigd zijn van het concept, begint fase 2 (zes weken) en kunnen de studenten starten met het bouwen van de template. Het onderzoekstraject voorziet in milestones en een overlegstructuur. Via een (web-based) informatiesysteem kunnen alle stakeholders bij voor hun relevante informatie. Het project wordt afgerond met een template, tutorial en een presentatie tijdens de Smart Industry Seminar primo 2018.
 
