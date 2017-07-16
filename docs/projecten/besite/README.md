@@ -17,6 +17,9 @@ Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een ove
 ## Contactpersonen
 + [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach** 
 + [Dion Penterman](linkedin.com/in/dionpenterman) - Online Marketing Consultant [BeSite](https://www.besite.nl/)
++ [Jeroen Jansen](linkedin.com/in/jeroen-jansen-9453722) - Software Engineer [BeSite](https://www.besite.nl/)
++ [Jan Spruijt](linkedin.com/in/janspruijt) - Academic Program Leader Smart Business [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
+
 
 ## Inspiratie
 + [Web Testing](https://en.wikipedia.org/wiki/Web_testing)
