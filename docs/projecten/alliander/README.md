@@ -14,11 +14,11 @@ Het onderzoekstraject voorziet in milestones en een overlegstructuur. Er zal tev
 
 ## Contactpersonen
 
+* Marielle Seegers – Docent Han Minor Smart Industrie – **Projectcoach**
 * Christel Kooijmans – HR Business Partner Alliander
 * Thijs Boersen – Manager HR Analytics Alliander
 * Marjolein Burghouts – Medewerker HR Analytics Alliander
-* Witek ten Hove - Coördinator HAN Minor Smart Industry – Projectcoach?
-* Marielle Seegers – Docent Han Minor Smart Industrie – Projectcoach?
++ [Jan Spruijt](linkedin.com/in/janspruijt) - Academic Program Leader Smart Business [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
 
 ## Inspiratie
 
