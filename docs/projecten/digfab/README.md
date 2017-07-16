@@ -38,6 +38,7 @@ Het project kan worden uitgevoerd door één of twee teams van ieder twee leden.
 + Max Truijers - HAN ICT
 + Werner Balduk - HAN ICT
 + Erik van Gijzen - HAN ICT
++ [Jan Spruijt](linkedin.com/in/janspruijt) - Academic Program Leader Smart Business [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
 
 
 ## Ter inspiratie
