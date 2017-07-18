@@ -5,7 +5,7 @@
 + **Hogeschool Arnhem en Nijmegen** - Partner
 
 ## Projectbeschrijving
-Besite ontwikkelt complete web-systemen voor bedrijfsprocessen. Hiermee kunnen organisaties de efficientie en effectiviteit van hun kritische processen optimaliseren en monitoren. Gedurende de ontwikkeling worden vaak nog handmatig controles uitgevoerd op de werking van de systemen. Er bestaan echter tools die bepaalde kwaliteitscontroles kunnen automatiseren.
+#### Besite ontwikkelt complete web-systemen voor bedrijfsprocessen. Hiermee kunnen organisaties de efficientie en effectiviteit van hun kritische processen optimaliseren en monitoren. Gedurende de ontwikkeling worden vaak nog handmatig controles uitgevoerd op de werking van de systemen. Er bestaan echter tools die bepaalde kwaliteitscontroles kunnen automatiseren.
 
 In het kader van de Minor Smart Industry zullen de mogelijkheden voor *automate website testing* voor Besite worden onderzocht. Een team van twee studenten gaat uitzoeken op welke dimensies de kwaliteit van web-systemen kan worden beoordeeld, de verschillende tools voor geautomatiseerde kwaliteitscontrole inventariseren en een *proof of concept* opleveren. 
 
