@@ -1,7 +1,7 @@
 # QRM Feasibility Study
 
 ## Projecteigenaren en partners
-+ **Vink Techniek** - Projecteigenaar
++ **Pillen Groep** - Projecteigenaar
 + **Hogeschool Arnhem en Nijmegen** - Partner
 
 ## Projectbeschrijving
