@@ -7,7 +7,7 @@
 ## Projectbeschrijving
 #### Één van de beloftes van Smart Industry is de flexibilisering van productie. Quick Response Manufacturing (QRM) is een vorm hiervan en Pillen wil onderzoeken of hiermee optimalisaties te behalen zijn voor de eigen productie-omgeving.
 
-Een team van twee studenten van de Minor Smart Industry gaat dit onderzoek uitvoeren en een advies geven over de invoering van QRM bij de opdrachtgever. Het porject zal bestaan uit twee fases van ieder zes weken:
+Een team van twee studenten van de Minor Smart Industry gaat dit onderzoek uitvoeren en een advies geven over de invoering van QRM bij de opdrachtgever. Het project zal bestaan uit twee fases van ieder zes weken:
 
 + Fase 1 - Vorming van theoretisch kader, onderzoeksvragen / -methodieken (empirie en advies) en planning fase 2
 + Fase 2 - Beantwoorden onderzoeksvragen en presentatie uitkomsten.
