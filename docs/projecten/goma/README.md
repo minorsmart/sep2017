@@ -6,7 +6,7 @@
  
 
 ## Projectbeschrijving
-Succes dwing je af. De Directie van Goma BV wil dit ook in de toekomst blijven doen en zoekt nieuwe wegen om de kwaliteit van processen naar een nog hoger niveau te brengen. Een team van twee studenten (met technische en bedrijfskundige achtergrond) gaan onderzoeken waar voor de onderneming mogelijkheden liggen op het gebied van Smart Industry, adviseren welke prioriteiten de onderneming moet stellen, wat de volgorde van maatregelen moet zijn en op welke wijze het management het transitieproces kan inrichten en beheersen.
+#### Succes dwing je af. De Directie van Goma BV wil dit ook in de toekomst blijven doen en zoekt nieuwe wegen om de kwaliteit van processen naar een nog hoger niveau te brengen. Een team van twee studenten (met technische en bedrijfskundige achtergrond) gaan onderzoeken waar voor de onderneming mogelijkheden liggen op het gebied van Smart Industry, adviseren welke prioriteiten de onderneming moet stellen, wat de volgorde van maatregelen moet zijn en op welke wijze het management het transitieproces kan inrichten en beheersen.
 
 Dit project zal bestaan uit twee fases van ieder zes weken. In fase 1 wordt een externe en interne analyse uitgevoerd en het theoretisch kader omtrent Smart Industry en innovatiemanagement opgebouwd. Bovendien wordt een plan gemaakt voor het empirisch onderzoek binnen de organisatie. De resultaten worden gepresenteerd aan alle betrokkenen.
 
