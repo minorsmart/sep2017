@@ -4,7 +4,9 @@
 + **Vink Techniek** - Projecteigenaar
 
 ## Projectbeschrijving
-tekst
+#### Één van de beloftes van Smart Industry is de flexibilisering van productie. Quick response manufacturing is een vorm hiervan en Pillen wil onderzoeken of hiermee optimalisaties te behalen zijn voor de eigen productie-omgeving.
+
+Een team van 
 
 
 ## Contactpersonen
@@ -12,9 +14,8 @@ tekst
 + [Henry Klein Hesselink](linkedin.com/in/henry-klein-hesselink-073b1358) - Manager Technical Logistic [Pillen Group](http://www.pillen.eu/)
 
 ## Inspiratie
-+ [Customer Journey](https://drive.google.com/file/d/0B63Xv-VjVpxSbzRuNHZwUlVvbjA/view?usp=sharing)
-+ [Kwaliteitsborging Industrie 4.0](https://www.qz-online.de/qz-zeitschrift/archiv/artikel/fuer-industrie-4-0-braucht-es-eine-qualitaetssicherung-4-0-835061.html)
-+ [Kwaliteitsdimensies](https://docs.google.com/spreadsheets/d/1OdiOwUAIRcCGG9HQSzZvm9D9a9DsSRpl3VC3fYX8I7Y/pubhtml)
++ [Auping Smart Industry](https://youtu.be/BWgZXhm3WYM)
++ [Center for Quick Response Manufacturing](https://qrm.engr.wisc.edu/)
 
 
 
