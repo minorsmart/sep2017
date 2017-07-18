@@ -16,11 +16,11 @@ Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een ove
 ## Contactpersonen
 + [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach** 
 + [Henry Klein Hesselink](linkedin.com/in/henry-klein-hesselink-073b1358) - Manager Technical Logistic [Pillen Group](http://www.pillen.eu/)
++ [Jan Spruijt](linkedin.com/in/janspruijt) - Academic Program Leader Smart Business [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
 
 ## Inspiratie
 + [Auping Smart Industry](https://youtu.be/BWgZXhm3WYM)
 + [Center for Quick Response Manufacturing](https://qrm.engr.wisc.edu/)
-+ [Jan Spruijt](linkedin.com/in/janspruijt) - Academic Program Leader Smart Business [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
 
 
 
