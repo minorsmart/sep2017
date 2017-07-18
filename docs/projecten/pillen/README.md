@@ -11,8 +11,7 @@ Een team van twee studenten van de Minor Smart Industry gaat dit onderzoek uitvo
 + Fase 1 - Vorming van theoretisch kader, onderzoeksvragen / -methodieken (empirie en advies) en planning fase 2
 + Fase 2 - Beantwoorden onderzoeksvragen en presentatie uitkomsten.
 
-
-
+Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een overlegstructuur. Via een (web-based) informatiesysteem kunnen alle stakeholders bij voor hun relevante informatie. Het project wordt afgerond met een template, tutorial en een presentatie tijdens de Smart Industry Seminar primo 2018.
 
 ## Contactpersonen
 + [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach** 
