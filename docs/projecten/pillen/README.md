@@ -4,7 +4,7 @@
 + **Vink Techniek** - Projecteigenaar
 
 ## Projectbeschrijving
-#### Één van de beloftes van Smart Industry is de flexibilisering van productie. Quick Response mMnufacturing (QRM) is een vorm hiervan en Pillen wil onderzoeken of hiermee optimalisaties te behalen zijn voor de eigen productie-omgeving.
+#### Één van de beloftes van Smart Industry is de flexibilisering van productie. Quick Response Manufacturing (QRM) is een vorm hiervan en Pillen wil onderzoeken of hiermee optimalisaties te behalen zijn voor de eigen productie-omgeving.
 
 Een team van twee studenten van de Minor Smart Industry gaat dit onderzoek uitvoeren en een advies geven over de invoering van QRM bij de opdrachtgever. Het porject zal bestaan uit twee fases van ieder zes weken:
 
