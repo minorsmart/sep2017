@@ -5,7 +5,7 @@
 + **Hogeschool Arnhem en Nijmegen** - Partner
 
 ## Projectbeschrijving
-De basis van de 5S-filosofie gaat terug tot aan het begin van de vorige eeuw en is inmiddels een wereldwijde standaard voor de inrichting van werkomgevingen. Kunnen we 100 jaar later met Smart Industry een nieuwe impuls geven aan dit paradigma?
+#### De basis van de 5S-filosofie gaat terug tot aan het begin van de vorige eeuw en is inmiddels een wereldwijde standaard voor de inrichting van werkomgevingen. Kunnen we 100 jaar later met Smart Industry een nieuwe impuls geven aan dit paradigma?
 
 Vink Techniek wil dit graag laten onderzoeken en een business case ontwikkelen voor de eigen productievloer. Een team van twee studenten van de Minor Smart Industry gaat een template ontwikkelen voor S5S en Vink adviseren over de implementatie. De template omvat de hele PDCA-cyclus van doelstellingen tot verbeteriteraties.
 
