@@ -2,6 +2,7 @@
 
 ## Projecteigenaren en partners
 + **Vink Techniek** - Projecteigenaar
++ **Hogeschool Arnhem en Nijmegen** - Partner
 
 ## Projectbeschrijving
 #### Één van de beloftes van Smart Industry is de flexibilisering van productie. Quick Response Manufacturing (QRM) is een vorm hiervan en Pillen wil onderzoeken of hiermee optimalisaties te behalen zijn voor de eigen productie-omgeving.
