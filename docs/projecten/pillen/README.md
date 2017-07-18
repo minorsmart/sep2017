@@ -1,7 +1,7 @@
 # QRM Feasibility Study
 
 ## Projecteigenaren en partners
-+ **Pillen Groep** - Projecteigenaar
++ **Pillen Group** - Projecteigenaar
 + **Hogeschool Arnhem en Nijmegen** - Partner
 
 ## Projectbeschrijving
