@@ -5,7 +5,7 @@
 + **Hogeschool Arnhem en Nijmegen** - Partner
 
 ## Projectbeschrijving
-#### > [The consumer of the future pays for use, not for ownership.](https://deemly.co/blog/sharing-owning-consumer-behavior/)
+#### *[The consumer of the future pays for use, not for ownership.](https://deemly.co/blog/sharing-owning-consumer-behavior/)*
 
 In het kader van de Minor Smart Industry zullen de mogelijkheden voor *automate website testing* voor Besite worden onderzocht. Een team van twee studenten gaat uitzoeken op welke dimensies de kwaliteit van web-systemen kan worden beoordeeld, de verschillende tools voor geautomatiseerde kwaliteitscontrole inventariseren en een *proof of concept* opleveren. 
 
