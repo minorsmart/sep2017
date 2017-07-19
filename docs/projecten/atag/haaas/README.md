@@ -7,11 +7,13 @@
 ## Projectbeschrijving
 #### *[The consumer of the future pays for use, not for ownership.](https://deemly.co/blog/sharing-owning-consumer-behavior/)*
 
-In het kader van de Minor Smart Industry zullen de mogelijkheden voor *automate website testing* voor Besite worden onderzocht. Een team van twee studenten gaat uitzoeken op welke dimensies de kwaliteit van web-systemen kan worden beoordeeld, de verschillende tools voor geautomatiseerde kwaliteitscontrole inventariseren en een *proof of concept* opleveren. 
+In verschillende branches wordt inmiddels het principe van *As A Service (AAS)* toegepast. Voor software is het inmiddels de norm. Bijvoorbeeld kun je bij IBM voor een paar cent per keer gebruik maken van hun geavanceerde Watson systeem en daarmee kunstmatige intelligentie inbouwen in je eigen applicaties. Andere voorbeelden zijn Google Docs en Dropbox.
 
-Het project bestaat uit twee fases. In fase 1 (zes weken) wordt het theoretisch kader opgebouwd en een concept ontwikkeld. De uitkomsten worden met de betrokkenen besproken. Als de projecteigenaar en de partners overtuigd zijn van het concept, begint de tweede fase (zes weken) en kunnen de studenten starten met het bouwen een modelopstelling.
+Kun je dit business model ook op fysieke activa toepassen vraagt ATAG zich af? En hoe zou dit model dan moeten worden ingericht? Natuurlijk bestaan hier al voorbeelden van. Maar meestal beperken die zich tot de zakelijke markt (e.g. kopieermachines). ATAG vermoedt dat met Smart Products ook de concumentenmarkt kan worden benaderd en legt hiervoor een onderzoekopdracht neer bij de Minor Smart Industry van de HAN.
 
-Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een overlegstructuur. Via een (web-based) informatiesysteem kunnen alle stakeholders bij voor hun relevante informatie. Het project wordt afgerond met een tool, een tutorial en een presentatie tijdens de Smart Industry Seminar primo 2018.
+Het onderzoekstraject bestaat uit twee fases. In fase 1 (zes weken) wordt onderzocht wat de belangrijkste succesfactoren zijn van het *AAS*-model en welke alternatieven er zijn. De uitkomsten worden met de betrokkenen besproken, waarna de projecteigenaar een beslissing neemt over de richting van het vervolgonderzoek in de tweede fase (zes weken).
+
+Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een overlegstructuur. Via een (web-based) informatiesysteem kunnen alle stakeholders bij voor hun relevante informatie. Het project wordt afgerond met één of meerder uitgewerkte businessmodellen, een tutorial en een presentatie tijdens de Smart Industry Seminar primo 2018.
 
 
 ## Contactpersonen
