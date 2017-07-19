@@ -13,7 +13,7 @@ ATAG vraagt zich af of dit business model ook op fysieke activa toepasbaar is. H
 
 Het onderzoekstraject bestaat uit twee fases. In fase 1 (zes weken) wordt onderzocht wat de belangrijkste succesfactoren zijn van het *AAS*-model en welke alternatieven er zijn. De uitkomsten worden met de betrokkenen besproken, waarna de projecteigenaar een beslissing neemt over de richting van het vervolgonderzoek in de tweede fase (zes weken).
 
-Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een overlegstructuur. Via een (web-based) informatiesysteem kunnen alle stakeholders bij voor hun relevante informatie. Het project wordt afgerond met één of meerder uitgewerkte businessmodellen, een tutorial en een presentatie tijdens de Smart Industry Seminar primo 2018.
+Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een overlegstructuur. Via een (web-based) informatiesysteem kunnen alle stakeholders bij voor hun relevante informatie. Het project wordt afgerond met één of meerdere uitgewerkte businessmodellen, een tutorial en een presentatie tijdens de Smart Industry Seminar primo 2018.
 
 
 ## Contactpersonen
