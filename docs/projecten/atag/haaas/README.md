@@ -9,7 +9,7 @@
 
 In verschillende branches wordt inmiddels het principe van *As A Service (AAS)* toegepast. Voor software is het inmiddels de norm. Bijvoorbeeld kun je bij IBM voor een paar cent per keer gebruik maken van hun geavanceerde Watson systeem en daarmee kunstmatige intelligentie inbouwen in je eigen applicaties. Andere voorbeelden zijn Google Docs en Dropbox.
 
-ATAG vraagt zich af of dit business model ook op fysieke activa toepasbaar is. Hoe zou dit model dan moeten worden ingericht? Natuurlijk bestaan hier al voorbeelden van. Maar meestal beperken die zich tot de zakelijke markt (e.g. kopieermachines). ATAG vermoedt dat met Smart Products ook de concumentenmarkt kan worden benaderd en legt hiervoor een onderzoekopdracht neer bij de Minor Smart Industry van de HAN.
+ATAG vraagt zich af of dit business model ook op fysieke activa toepasbaar is. Hoe zou dit model dan moeten worden ingericht? Natuurlijk bestaan hier al voorbeelden van. Maar meestal beperken die zich tot de zakelijke markt (e.g. kopieermachines). ATAG vermoedt dat met Smart Products ook de concumentenmarkt kan worden benaderd en legt hiervoor een onderzoeksopdracht neer bij de Minor Smart Industry van de HAN.
 
 Het onderzoekstraject bestaat uit twee fases. In fase 1 (zes weken) wordt onderzocht wat de belangrijkste succesfactoren zijn van het *AAS*-model en welke alternatieven er zijn. De uitkomsten worden met de betrokkenen besproken, waarna de projecteigenaar een beslissing neemt over de richting van het vervolgonderzoek in de tweede fase (zes weken).
 
