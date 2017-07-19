@@ -7,7 +7,7 @@
 ## Projectbeschrijving
 #### *[The consumer of the future pays for use, not for ownership.](https://deemly.co/blog/sharing-owning-consumer-behavior/)*
 
-In verschillende branches wordt inmiddels het principe van *As A Service (AAS)* toegepast. Voor software is het inmiddels de norm. Bijvoorbeeld kun je bij IBM voor een paar cent per keer gebruik maken van hun geavanceerde Watson systeem en daarmee kunstmatige intelligentie inbouwen in je eigen applicaties. Andere voorbeelden zijn Google Docs en Dropbox.
+In verschillende branches wordt inmiddels het principe van *As A Service (AAS)* toegepast. Voor software is het al lange tijd de norm. Bijvoorbeeld kun je bij IBM voor een paar cent per keer gebruik maken van hun geavanceerde Watson systeem en daarmee kunstmatige intelligentie inbouwen in je eigen applicaties. Andere voorbeelden zijn Google Docs en Dropbox.
 
 ATAG vraagt zich af of dit business model ook op fysieke activa toepasbaar is. Hoe zou dit model dan moeten worden ingericht? Natuurlijk bestaan hier al voorbeelden van. Maar meestal beperken die zich tot de zakelijke markt (e.g. kopieermachines). ATAG vermoedt dat met Smart Products ook de concumentenmarkt kan worden benaderd en legt hiervoor een onderzoeksopdracht neer bij de Minor Smart Industry van de HAN.
 
