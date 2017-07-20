@@ -23,3 +23,4 @@ Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een ove
 ## Inspiratie
 + [5S Methode](https://en.wikipedia.org/wiki/5S_(methodology))
 + [Industry 4.0 and Lean](http://www.jiem.org/index.php/jiem/article/download/1940/780)
++ [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/index.html)
