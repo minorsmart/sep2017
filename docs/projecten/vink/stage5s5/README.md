@@ -17,7 +17,7 @@ Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een ove
 
 
 ## Contactpersonen
-+ [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach** 
++ [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) 
 + [Wilco van Schriek](linkedin.com/in/wilco-van-schriek-1182a027) - Manager Front Office [Vink Techniek](http://www.vinktechniek.nl/)
 
 ## Inspiratie
