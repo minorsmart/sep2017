@@ -1,5 +1,7 @@
 # Smart 5S (S5S)
 
+![Smart Industry](http://www.vno-ncwmidden.nl/Diverse/smart%20ind.jpg)
+
 ## Projecteigenaren en partners
 + **Vink Techniek** - Projecteigenaar
 + **Hogeschool Arnhem en Nijmegen** - Partner
