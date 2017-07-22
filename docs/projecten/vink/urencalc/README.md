@@ -4,7 +4,11 @@
 + **Vink Techniek** - Projecteigenaar
 
 ## Projectbeschrijving
-tekst
+#### Vink Techniek bewerkt al meer dan veertig jaar kunststof halffabrikaten. Met de ervaring, kennis en uitgebreide productiefaciliteiten behoort het tot de toonaanfevende kunststofbewerkers van Nedereland. De industrie en dan met name de machinebouw behoren samen met de bouw- en reclamesector tot de belangrijkste marktgebieden. Vink Techniek maakt ook kunstof onderdelen voor apparatenbouwers.
+
+Mede door groei is het correct calculeren van opdrachten steeds crucialer van belang. Hierop hebben reeds twee studenten grondig onderzoek verricht voor het implementeren van een software tool, waarmee verkopers werken. Hiermee dient het calculatieproces verbeterd te worden in efficientie alsmede betrouwbaarheid.
+
+De opdracht betreft het opvolgen van voorgaand onderzoeken en daadwerkelijk implementeren van een geadviseerde tool. Betreft tevens het borgen van de implementatie bij de verkoopmedewerkers.
 
 
 ## Contactpersonen
