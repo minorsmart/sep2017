@@ -44,8 +44,8 @@ ATAG wil graag laten onderzoeken welke mogenlijkheden er bestaan voor customer i
 
 
 ## Inspiratie
-+ [Philips](http://www.philips.com/a-w/about/news/archive/standard/news/press/2015/20150416-Philips-provides-Light-as-a-Service-to-Schiphol-Airport.html)
-+ [IBM](https://youtu.be/GsGnyZedlFk)
++ [Automotive](https://youtu.be/csLyiiKTAck)
++ [Adidas](https://www.recode.net/2016/9/27/13065822/adidas-shoe-robots-manufacturing-factory-jobs)
 
 
 
