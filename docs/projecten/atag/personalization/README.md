@@ -7,7 +7,7 @@
 ## Projectbeschrijving
 ![Smart Industry](https://i2.wp.com/boostbusinessinnovation.com/wp-content/uploads/2016/02/Smart-industry.jpg)
 
-Één van de uitkomsten van Smart Industry is customer intimacy. Dit is een breed begrip en kan in de praktijk betekenen dat een klant in grote mate zelf het product kan configureren en kan bepalen op welke wijze de transactie verder wordt afgehandeld (betaling, levering, service, ....) De automotive sector is hier al heel ver in. Klanten kunnen vaak al een virtuele versie van hun auto online samenstellen en bekijken. De koopbeslissing wordt vaak niet meer in de showroom, maar thuis achter de computer genomen. De functie van de dealer binnen de *customer journey* is hiermee sterk veranderd, maar nog steeds relevant.
+Één van de uitkomsten van Smart Industry is *customer intimacy*. Dit is een breed begrip en kan in de praktijk betekenen dat een klant in grote mate zelf het product kan configureren en kan bepalen op welke wijze de transactie verder wordt afgehandeld (betaling, levering, service, ....) De automotive sector is hier al heel ver in. Klanten kunnen vaak al een virtuele versie van hun auto online samenstellen en bekijken. De koopbeslissing wordt vaak niet meer in de showroom, maar thuis achter de computer genomen. De functie van de dealer binnen de *customer journey* is hiermee sterk veranderd, maar nog steeds relevant.
 
 De keukenbranche vertoont een aantal opvallende overeenkomsten met de autobranche:
 
@@ -16,7 +16,11 @@ De keukenbranche vertoont een aantal opvallende overeenkomsten met de autobranch
 + De keuze voor een bepaalde keukenopstelling is vaak een gezamenlijke beslissing binnen een huishouden
 + Een keuken is een afweging tussen functionaliteit en esthetiek.
 
-ATAG wil graag laten onderzoeken welke mogenlijkheden er bestaan voor customer intimacy, welke keuzes ze kunnen maken en scenario's laten uitwerken voor hun productie-, klant-, innovatie- en economisch/juridische processen en de investeringen die gedaan moeten worden in het Human, Information en Organizational Capital.
+ATAG wil graag laten onderzoeken welke mogenlijkheden er bestaan voor *customer intimacy*, welke keuzes ze kunnen maken en scenario's laten uitwerken voor hun productie-, klant-, innovatie- en economisch/juridische processen en de investeringen die gedaan moeten worden in het Human, Information en Organizational Capital.
+
+Het onderzoekstraject bestaat uit twee fases. In fase 1 (zes weken) worden de trends en best practices omtrent *customer intimacy* onderzocht. De uitkomsten worden met de betrokkenen besproken, waarna de projecteigenaar een beslissing neemt over de richting van het vervolgonderzoek in de tweede fase (zes weken).
+
+Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een overlegstructuur. Via een (web-based) informatiesysteem kunnen alle stakeholders bij voor hun relevante informatie. Het project wordt afgerond met één of meerdere uitgewerkte scenario's en een presentatie tijdens de Smart Industry Seminar primo 2018.
 
 
 ## Contactpersonen
