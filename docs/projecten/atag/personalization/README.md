@@ -16,7 +16,7 @@ De keukenbranche vertoont een aantal opvallende overeenkomsten met de autobranch
 + De keuze voor een bepaalde keukenopstelling is vaak een gezamenlijke beslissing binnen een huishouden
 + Een keuken is een afweging tussen functionaliteit en esthetiek.
 
-ATAG wil graag laten onderzoeken welke mogenlijkheden er bestaan voor customer intimacy, welke keuzes ze kunnen maken en scenario's laten uitwerken voor hun productie-, klant-, innovatie- en economisch/juridische processen. 
+ATAG wil graag laten onderzoeken welke mogenlijkheden er bestaan voor customer intimacy, welke keuzes ze kunnen maken en scenario's laten uitwerken voor hun productie-, klant-, innovatie- en economisch/juridische processen en de investeringen die gedaan moeten worden in het Human, Information en Organizational Capital.
 
 
 ## Contactpersonen
@@ -28,6 +28,7 @@ ATAG wil graag laten onderzoeken welke mogenlijkheden er bestaan voor customer i
 ## Inspiratie
 + [Automotive](https://youtu.be/csLyiiKTAck)
 + [Adidas](https://www.recode.net/2016/9/27/13065822/adidas-shoe-robots-manufacturing-factory-jobs)
++ [Strategy Maps](http://strategus.it/files/Strategy-Maps.pdf)
 
 
 
