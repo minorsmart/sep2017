@@ -9,7 +9,7 @@
 
 Wat als we een huishouden beschouwen als een organisatie met processen? Welke functie en plaats heeft de keuken in dit geheel (WHY)? Hoe kan de waarde van de keuken worden verhoogd met Smart Industry enablers (HOW)? Kan het veiliger, efficiënter en effectiever? Hoe ziet de Smart Kitchen er uit (WHAT)?
 
-Het onderzoekstraject bestaat uit twee fases. In fase 1 (zes weken) wordt onderzocht hoe het Smart paradigma aansluit bij de strategie van ATAG en antwoorden gezocht op de *WHY-* en *HOW-*vragen. De uitkomsten worden met de betrokkenen besproken, waarna de projecteigenaar een beslissing neemt over de richting van het vervolgonderzoek in de tweede fase (zes weken).
+Het onderzoekstraject bestaat uit twee fases. In fase 1 (zes weken) wordt onderzocht hoe het Smart paradigma aansluit bij de strategie van ATAG en worden antwoorden gezocht op de *WHY-* en *HOW-*vragen. De uitkomsten worden met de betrokkenen besproken, waarna de projecteigenaar een beslissing neemt over de richting van het vervolgonderzoek in de tweede fase (zes weken).
 
 Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een overlegstructuur. Via een (web-based) informatiesysteem kunnen alle stakeholders bij voor hun relevante informatie. Het project wordt afgerond met één of meerdere uitgewerkte Smart Kitchen modellen (met prototypes van onderdelen) en een presentatie tijdens de Smart Industry Seminar primo 2018.
 
