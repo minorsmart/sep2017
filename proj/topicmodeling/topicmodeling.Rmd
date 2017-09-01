@@ -1,34 +1,47 @@
 ---
-title: "Text modeling"
+title: "Natural Language Processing (NLP) met R"
 output: html_notebook
 ---
 
-Build Document Term Matrix (DTM)
-```{r} 
+## Tekstanalyse
+In deze notebook wordt getoond hoe tekst automatisch kan worden geanalyseerd. De data in dit voorbeeld komt uit een Google Spreadsheet en bevat de antwoorden van een survey onder studenten van de [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) (MSI), waarin werd gevraagd naar de motivatie voor het onderwerp van de minor.
+
+### Stap 1: Laad alle libraries en lees de databron in.
+
+```{r, message=FALSE, warning=FALSE}
 library(gsheet)
 library(tm)
 library(topicmodels)
 library(tidytext)
 library(ggplot2)
 library(dplyr)
+
 url <- "https://docs.google.com/spreadsheets/d/1NU30YBPazcsg4-2oYKwjEiVam1_foJecoASRiOzKhX4/edit?usp=sharing"
 responses <- as.data.frame(gsheet2tbl(url = url, sheetid = NULL))
+head(responses)
+```
+
+### Stap 2: Creëer een document term matrix.
+
+```{r, message=FALSE, warning=FALSE}
 colnames(responses) <- c("time","txt")
 myCorpus <- Corpus(VectorSource(responses$txt))
 myCorpus <- tm_map(myCorpus, removeWords, stopwords("dutch"))
 myDTM <- DocumentTermMatrix(myCorpus)
+inspect(myDTM)
 
 ```
 
-Fit LDA- model.
+### Stap 3: Genereer het Latent Dirichlet Allocation (LDA) model
 
 ```{r}
 responsesLDA <- LDA(myDTM, k = 2, control = list(seed = 1234))
 responsesLDA
 ```
 
-Word-topic probabilities
-```{r}
+### Stap 4: Genereer tabellen en grafieken
+
+```{r, message=FALSE, warning=FALSE}
 
 responsesTopics <- tidy(responsesLDA, matrix = "beta")
 responsesTopics
