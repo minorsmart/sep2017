@@ -1,0 +1,52 @@
+---
+title: "Text modeling"
+output: html_notebook
+---
+
+Build Document Term Matrix (DTM)
+```{r} 
+library(gsheet)
+library(tm)
+library(topicmodels)
+library(tidytext)
+library(ggplot2)
+library(dplyr)
+url <- "https://docs.google.com/spreadsheets/d/1NU30YBPazcsg4-2oYKwjEiVam1_foJecoASRiOzKhX4/edit?usp=sharing"
+responses <- as.data.frame(gsheet2tbl(url = url, sheetid = NULL))
+colnames(responses) <- c("time","txt")
+myCorpus <- Corpus(VectorSource(responses$txt))
+myCorpus <- tm_map(myCorpus, removeWords, stopwords("dutch"))
+myDTM <- DocumentTermMatrix(myCorpus)
+
+```
+
+Fit LDA- model.
+
+```{r}
+responsesLDA <- LDA(myDTM, k = 2, control = list(seed = 1234))
+responsesLDA
+```
+
+Word-topic probabilities
+```{r}
+
+responsesTopics <- tidy(responsesLDA, matrix = "beta")
+responsesTopics
+
+ResponsesDocuments <- tidy(responsesLDA, matrix = "gamma")
+ResponsesDocuments
+
+responsesTTerms <- responsesTopics %>%
+  group_by(topic) %>%
+  top_n(10, beta) %>%
+  ungroup() %>%
+  arrange(topic, -beta)
+
+responsesTTerms %>%
+  mutate(term = reorder(term, beta)) %>%
+  ggplot(aes(term, beta, fill = factor(topic))) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~ topic, scales = "free") +
+  coord_flip()
+```
+
