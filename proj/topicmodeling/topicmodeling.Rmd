@@ -26,7 +26,9 @@ head(responses)
 ```{r, message=FALSE, warning=FALSE}
 colnames(responses) <- c("time","txt")
 myCorpus <- Corpus(VectorSource(responses$txt))
-myCorpus <- tm_map(myCorpus, removeWords, stopwords("dutch"))
+myCorpus <- tm_map(myCorpus, content_transformer(tolower))
+myCorpus <- tm_map(myCorpus, removeWords, stopwords(kind = "nl"))
+myCorpus <- tm_map(myCorpus, removeWords, c("minor", "smart", "industry"))
 myDTM <- DocumentTermMatrix(myCorpus)
 inspect(myDTM)
 
@@ -59,7 +61,7 @@ responsesTTerms %>%
   mutate(term = reorder(term, beta)) %>%
   ggplot(aes(term, beta, fill = factor(topic))) +
   geom_col(show.legend = FALSE) +
-  facet_wrap(~ topic, scales = "free") +
+  facet_wrap(~ topic, scales = "free_y") +
   coord_flip()
 ```
 
