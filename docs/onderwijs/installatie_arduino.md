@@ -1,5 +1,7 @@
-= Installatie Arduino software op Mac
-== Voorbereiding
+
+# Installatie Arduino software op Mac #
+ 
+## Voorbereiding ##
 We gaan twee programma's installeren. Deze programma's downloaden we
 van het internet. Apple ziet dit terecht als iets verdachts. Daarom
 zul je eerst je mac moeten vertellen dat je weet wat je doet.
@@ -18,7 +20,7 @@ te installeren. Je hebt nu echter toch de mogelijkheid op 'openen' te
 klikken. Die had je normaal niet gehad als je meteen dubbel klikt op
 de .dmg of .pkg file.
 
-== Wat gaan we doen?
+## Wat gaan we doen? ##
 Om de electronica te kunnen programmeren moet je verschillende programma's
 hebben. Ten eerste een soort tekst verwerkingsprogramma om software
 mee te schrijven. Ten tweede een programma om wat je geschreven hebt
@@ -33,20 +35,20 @@ dat het kopierprogramma via de USB-poort met het board kan communiceren.
 Daarnaast gaan we nog even de software waarmee we het board gaan programmeren
 downloaden en op de goede plek zetten.
 
-== 1e pakket: Arduino
+## 1e pakket: Arduino ##
 Download het volgende bestand:
 https://www.arduino.cc/download_handler.php?f=/arduino-1.8.4-macosx.zip
 
 Pak het uit en installeer vervolgens Arduino door te dubbelklikken op
 de .dmg file.
 
-== 2e pakket: USB-serialport driver
+## 2e pakket: USB-serialport driver ##
 Download het volgende bestand:
 https://www.silabs.com/documents/public/software/Mac_OSX_VCP_Driver.zip
 
 Pak ook dit bestand weer uit en installeer de .pkg
 
-== 3e pakket: software geschreven door de HAN
+## 3e pakket: software geschreven door de HAN ##
 Download het volgende bestand:
 <> 
 
@@ -55,17 +57,14 @@ kopieer je naar Documents/Arduino.
 Kopieer alles in de 'libraries' directory naar Documents/Arduino/liberaries/.
 Als het goed is ziet de directory structuur er nu zo uit:
 
-~/Documents/Arduino/
-~/Documents/Arduino/hardware
-~/Documents/Arduino/src
-~/Documents/Arduino/libraries
-  
+    ~/Documents/Arduino/
+    ~/Documents/Arduino/hardware
+    ~/Documents/Arduino/src
+    ~/Documents/Arduino/libraries
 
-== Testen maar!
+## Testen maar! ##
 Als alles gelukt is, hoef je nu alleen maar de Arduino applicatie te
 starten via 'launch pad'. Daar vind je de Arduino applicatie naast
 alle andere applicaties. Als je het start kun je via 'File' en 'Open'
 de bron code file openen die in de directory: ~/Documents/Arduino
 staat.
-
-
