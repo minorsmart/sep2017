@@ -16,4 +16,5 @@ Issues:
 + Bij Smart Tech konden sommige studenten geen opdrachten inleveren: Groepsmodus stond aan voor inleveren - DONE
 + Relatie Check-IT en MSI onduidelijk voor sommige deelnemers. Wat is de fuctie van de stage-overeenkomst m.b.t. de minor en hoe vinden de assessments en toewijzing studiepunten plaats: Bespreken Team MSI. Jan Dankers koppelt terug naar studenten - IN PROGRESS
 + Arduino software in eerste instantie alleen ontwikkeld voor Windows: Getest op Mac en werkbare oplossing gevonden. Maurice plaats documentatie op GitHub - IN PROGRESS
-+ Extra simkaart en WIFI router bestellen bij ICT - TODO
++ Witek bestelt een extra simkaart en WIFI router bij ICT - TODO
++ Witek bestelt een groter scherm voor de Basecamp - TO DO
