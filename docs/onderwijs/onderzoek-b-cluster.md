@@ -39,7 +39,7 @@
 + Reproducible research
 + Formulier laten invullen en verwerken
 + Tip Robert: begin bij eindtabel en werk dan terug naar methode
-+ Ranking <br> ![Ranking](https://i0.wp.com/r4stats.com/wp-content/uploads/2017/02/Fig-1a-IndeedJobs-2017.png)
++ [Ranking](http://r4stats.com/2017/02/28/r-passes-sas/] <br> ![Ranking](https://i0.wp.com/r4stats.com/wp-content/uploads/2017/02/Fig-1a-IndeedJobs-2017.png)
 + Onderling inspireren (instructievideo's laten maken)
 + Google Spreadsheets direct naar SPSS
 + SCRUM projectmanagement (bewustzijn creëren)
