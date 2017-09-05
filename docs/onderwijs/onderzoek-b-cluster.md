@@ -16,6 +16,16 @@
   + Opdracht is gekoppeld aan leerstof en werkcollege
   + Werkcollege 8 en 9 theorie (steekproeven en toetsen)
   + Werkcollege 10 en 11 toepassen op eigen data
+ + Vragen
+   + Wat is het verschil tussen kwalitatief en kwantitatief onderzoek? (vertellen vs tellen)
+   + Wat is het verschil tussen wetenschappelijk en praktijkonderzoek? (begrijpen vs praktische waarde - )
+   + Wat is het verschil tussen beschrijvend / explorerend / toetsend onderzoek?  (meten en inventariseren / patronen en samenhangen zoeken / theorie ontwikkelen - oorzaak <> gevolg)
+ + Opdracht:
+   + Zoek op internet naar een interessant onderzoek
+   + Discussie: Is dit - 
+     + wetenschappelijk of praktijk?
+     + Kwalitatief of kwantitatief?
+     + beschrijvend / explorerend / toetsend?
 
 
 
@@ -35,4 +45,7 @@
 + SCRUM projectmanagement (bewustzijn creëren)
 + Wiskunde voor Statistiek
 + Terugzoeken presentatie Pecs
++ Boek kwalitatief thuis definitie
++ Discussie over waarde van toepassing
++ Video [HR Google](https://www.youtube.com/watch?v=nLjFTHTgEVU&feature=youtu.be) laten zien (noodzaak van evidence based voor praktijkgericht onderzoek)
 
