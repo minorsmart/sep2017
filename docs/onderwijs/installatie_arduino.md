@@ -80,7 +80,7 @@ Pak ook deze file weer uit en installeer de .pkg. Je hebt nu de driver
 geinstalleerd zodat het kopieer programma via de USB poort kan communiceren
 met het board.
 
-## 3e pakket: software geschreven door de HAN ##
+## 4e pakket: software geschreven door de HAN ##
 Download de volgende file:
 https://github.com/minorsmart/sep2017/tree/master/docs/onderwijs/software.zip
 
