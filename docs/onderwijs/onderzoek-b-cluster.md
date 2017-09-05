@@ -15,7 +15,7 @@
   + Onderzoeksplan krijgt GO (onderdeel van portfolio)
   + Opdracht is gekoppeld aan leerstof en werkcollege
   + Werkcollege 8 en 9 theorie (steekproeven en toetsen)
-  + Werkcollege 10 en 11 toepassen op eigen data
+  + Werkcollege 10 en 11 toepassen (op eigen data)
  + Vragen
    + Wat is het verschil tussen kwalitatief en kwantitatief onderzoek? (vertellen vs tellen)
    + Wat is het verschil tussen wetenschappelijk en praktijkonderzoek? (begrijpen vs praktische waarde - )
@@ -27,7 +27,7 @@
      + Kwalitatief of kwantitatief?
      + beschrijvend / explorerend / toetsend?
    + Bespreek de kwaliteit (AAOCC)
-   + Ontwerp een onderzoeksvraag m.b.t. studetentenmarketing
+   + Ontwerp een onderzoeksvraag m.b.t. studentenmarketing
    + Maak een overzicht van alle antwoorden op bovenstaande vragen, plaats het online en stuur de link rond naar klas en docent
 
 
