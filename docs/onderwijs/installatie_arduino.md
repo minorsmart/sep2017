@@ -14,6 +14,7 @@ wil overrulen. De makkelijkste is de volgende:
     1. Geef een rechter muis klik op de .dmg of .pkg die je hebt gedownload.
 
 Dan verschijnt er een menu naast de file. Bovenin staat 'open met'.
+
     2. Klik op `open met`, je ziet nu dat je het bestand met 'installer' kan openen.
     3. Klik op `installer`
 
