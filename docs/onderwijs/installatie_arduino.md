@@ -29,20 +29,45 @@ worden en ten derde een programma dat het bestand met nullen en enen
 naar het board kopieerd.
 
 We gaan dus eerst de 'tekstverwerker' installeren (een IDE). Die bevat
-meteen ook al de software voor het omzetten en kopieren naar het board.
-Alleen moet er ook een driver geinstalleerd worden om ervoor te zorgen
-dat het kopierprogramma via de USB-poort met het board kan communiceren.
-Daarnaast gaan we nog even de software waarmee we het board gaan programmeren
-downloaden en op de goede plek zetten.
+meteen ook al de software voor het omzetten en kopieren naar verschillende
+boards, helaas echter niet die wij gebruiken..
+
+Dus we moeten een "omzet" programma (compiler toolchain) voor ons board
+installeren en daarnaast ook een driver die ervoor zorgt dat het kopierprogramma 
+via de USB-poort met het board kan communiceren.
+
+Daarnaast krijg je meteen ook de software die de leraren geschreven hebben
+voor het board.
 
 ## 1e pakket: Arduino ##
 Download het volgende bestand:
 https://www.arduino.cc/download_handler.php?f=/arduino-1.8.4-macosx.zip
 
-Pak het uit en installeer vervolgens Arduino door te dubbelklikken op
-de .dmg file.
+   1. Pak het uit
+   2. Je hebt nu een bestand dat heet `arduino`.
+   3. Verplaats dit naar je `Applicaties` directory.
 
-## 2e pakket: USB-serialport driver ##
+Het Arduino programma is nu geinstalleerd.
+
+   1. Start het Arduino programma
+   2. Als het goed is, zie je nu in de directory 'Documents', de directory 'Arduino' verschijnen.
+   3. Sluit het programma weer af
+
+## 2e pakket: compiler toolchain voor het board
+Volg de aanwijzingen op de volgende website:
+
+https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/mac.md
+
+Je hebt nu het 'omzet' (compiler) en kopieer (flash)  programma geinstalleerd
+voor het board. Als het goed is heb je nu een extra directory gekregen in je
+'Documents/Arduino' directory. Deze heet 'hardware'. Je hebt nu dus twee directories
+in deze directory:
+
+   ~/Documents/Arduino
+   ~/Documents/Arduino/hardware/
+   ~/Documents/Arduino/libraries/
+
+## 3e pakket: USB-serialport driver ##
 Download het volgende bestand:
 https://www.silabs.com/documents/public/software/Mac_OSX_VCP_Driver.zip
 
@@ -50,11 +75,15 @@ Pak ook dit bestand weer uit en installeer de .pkg
 
 ## 3e pakket: software geschreven door de HAN ##
 Download het volgende bestand:
-<> 
+https://github.com/minorsmart/sep2017/tree/master/docs/onderwijs/software.zip
 
-Pak het bestand uit. Je hebt nu twee directories. De 'src' directory
-kopieer je naar Documents/Arduino.
-Kopieer alles in de 'libraries' directory naar Documents/Arduino/liberaries/.
+Pak het bestand uit. Je hebt nu twee directories gekregen: `src` en `libraries`.
+
+  1. Kopieer de `src` directory naar ~/Documents/Arduino
+  2. Kopieer alles in de `libraries` directory naar ~/Documents/Arduino/liberaries/
+
+NB: in `1` kopier je dus de directory naar een andere directory. In `2` kopier je alle directories in de uitgepakte directory `libraries` naar de  ~/Documents/Arduino/liberaries/. waarschijnlijk werkt het overschrijven van de libraries directory ook, maar dit is niet getest. Beter is het dus om gewoon de directories van elke library te kopieren.
+
 Als het goed is ziet de directory structuur er nu zo uit:
 
     ~/Documents/Arduino/
@@ -66,5 +95,5 @@ Als het goed is ziet de directory structuur er nu zo uit:
 Als alles gelukt is, hoef je nu alleen maar de Arduino applicatie te
 starten via 'launch pad'. Daar vind je de Arduino applicatie naast
 alle andere applicaties. Als je het start kun je via 'File' en 'Open'
-de bron code file openen die in de directory: ~/Documents/Arduino
-staat.
+de bron code files openen die in de directory: ~/Documents/Arduino/src/
+staan.
