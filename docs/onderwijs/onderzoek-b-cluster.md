@@ -26,6 +26,7 @@
      + wetenschappelijk of praktijk?
      + Kwalitatief of kwantitatief?
      + beschrijvend / explorerend / toetsend?
+   + Bespreek de kwaliteit (AAOCC)
    + Ontwerp een onderzoeksvraag m.b.t. studetentenmarketing
    + Maak een overzicht van alle antwoorden op bovenstaande vragen, plaats het online en stuur de link rond naar klas en docent
 
