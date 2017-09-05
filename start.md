@@ -14,7 +14,7 @@ Issues:
 + Studenten konden activiteiten niet doen: self-enrollment stond niet aan - DONE
 + Niet alle studenten hadden zich aangemeld bij Moodle of hadden inloggegevens - DONE
 + Bij Smart Tech konden sommige studenten geen opdrachten inleveren: Groepsmodus stond aan voor inleveren - DONE
-+ Relatie Check-IT en MSI onduidelijk voor sommige deelnemers. Wat is de fuctie van de stage-overeenkomst m.b.t. de minor en hoe vinden de assessments en toewijzing studiepunten plaats: Bespreken Team MSI. Jan Dankers koppelt terug naar studenten - IN PROGRESS
-+ Arduino software in eerste instantie alleen ontwikkeld voor Windows: Getest op Mac en werkbare oplossing gevonden. Maurice plaats documentatie op GitHub - IN PROGRESS
-+ Witek bestelt een extra simkaart en WIFI router bij ICT - TODO
-+ Witek bestelt een groter scherm voor de Basecamp - TO DO
++ Relatie Check-IT en MSI onduidelijk voor sommige deelnemers. Wat is de fuctie van de stage-overeenkomst m.b.t. de minor en hoe vinden de assessments en toewijzing studiepunten plaats: Bespreken Team MSI. Jan Dankers koppelt terug naar studenten - IN PROGRESS >> *Mail gestuurd naar David en Jan Dankers*
++ Arduino software in eerste instantie alleen ontwikkeld voor Windows: Getest op Mac en werkbare oplossing gevonden. Maurice plaats documentatie op GitHub - IN PROGRESS >> *Document klaar / Franz legt laatste hand aan software*
++ Witek bestelt een extra simkaart en WIFI router bij ICT - TODO >> *Aanvragen liggen klaar ter geoedkeuring directie* 
++ Witek bestelt een groter scherm voor de Basecamp - TO DO >> *Witek heeft vraag neergelegd bij FZ Arnhem (Hans Dicks)*
