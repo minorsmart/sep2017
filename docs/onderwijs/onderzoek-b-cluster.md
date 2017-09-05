@@ -21,7 +21,7 @@
    + Wat is het verschil tussen wetenschappelijk en praktijkonderzoek? (begrijpen vs praktische waarde - )
    + Wat is het verschil tussen beschrijvend / explorerend / toetsend onderzoek?  (meten en inventariseren / patronen en samenhangen zoeken / theorie ontwikkelen - oorzaak <> gevolg)
  + Opdracht team:
-   + Zoek op internet naar een interessant onderzoek over marketing
+   + Zoek op internet naar een interessant onderzoek over marketing (waar en hoe - bijv. welke taal?)
    + Discussie: Is dit - 
      + wetenschappelijk of praktijk?
      + Kwalitatief of kwantitatief?
