@@ -6,7 +6,10 @@
 + Gelegenheid voor vragen
 + Uitleg eindproduct (posterpresentatie A0 formaat - onderzoeksvragen / tabellen / conclusies / aanbevelingen)
 + Uitleg software
-
++ Toetsing (na week 7: theorietoets MC + enkele open vraag / belangrijkste begrippen boek 'Dit is onderzoek') einde periode één
++ Practica met fictieve data (week 3 of 4 enquete invullen en data analyseren)
++ Eigen onderzoek in tweede periode (begin in periode één)
++ Doornemen Studiehandleiding
 
 
 # Tasks
@@ -18,4 +21,4 @@
 + Reproducible research
 + Formulier laten invullen en verwerken
 + Tip Robert: begin bij eindtabel en werk dan terug naar methode
-+ Ranking ![Ranking](https://i0.wp.com/r4stats.com/wp-content/uploads/2017/02/Fig-1a-IndeedJobs-2017.png) 
++ Ranking <br> ![Ranking](https://i0.wp.com/r4stats.com/wp-content/uploads/2017/02/Fig-1a-IndeedJobs-2017.png) 
