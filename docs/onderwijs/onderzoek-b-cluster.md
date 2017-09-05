@@ -20,12 +20,14 @@
    + Wat is het verschil tussen kwalitatief en kwantitatief onderzoek? (vertellen vs tellen)
    + Wat is het verschil tussen wetenschappelijk en praktijkonderzoek? (begrijpen vs praktische waarde - )
    + Wat is het verschil tussen beschrijvend / explorerend / toetsend onderzoek?  (meten en inventariseren / patronen en samenhangen zoeken / theorie ontwikkelen - oorzaak <> gevolg)
- + Opdracht:
-   + Zoek op internet naar een interessant onderzoek
+ + Opdracht team:
+   + Zoek op internet naar een interessant onderzoek over marketing
    + Discussie: Is dit - 
      + wetenschappelijk of praktijk?
      + Kwalitatief of kwantitatief?
      + beschrijvend / explorerend / toetsend?
+   + Ontwerp een onderzoeksvraag m.b.t. studetentenmarketing
+   + Maak een overzicht van alle antwoorden op bovenstaande vragen, plaats het online en stuur de link rond naar klas en docent
 
 
 
