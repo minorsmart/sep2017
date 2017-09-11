@@ -17,7 +17,7 @@ str(rawDF)
 
 ### Bewerk de data
 ```{r}
-library(tidyr)
+library(tidyverse)
 newDF <- select(rawDF, Vooropleiding = ends_with("vooropleiding."), Intenties = ends_with("intenties"), Inspiratie = ends_with("geattendeerd."), Voorbereiding = ends_with(".minor."))
 ```
 
