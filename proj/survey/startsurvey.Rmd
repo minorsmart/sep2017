@@ -19,7 +19,6 @@ str(rawDF)
 ```{r}
 library(tidyr)
 newDF <- select(rawDF, Vooropleiding = ends_with("vooropleiding."), Intenties = ends_with("intenties"), Inspiratie = ends_with("geattendeerd."), Voorbereiding = ends_with(".minor."))
-
 ```
 
 
@@ -29,7 +28,4 @@ library(ggplot2)
 ggplot(newDF) +
   geom_bar(aes(x = Vooropleiding, fill = Vooropleiding)) +
   theme(legend.position = "none", axis.text.x = element_text(angle = 60, hjust = 1))
-  
-  
-  
 ```
