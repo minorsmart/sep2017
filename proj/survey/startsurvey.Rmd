@@ -24,7 +24,6 @@ newDF <- select(rawDF, Vooropleiding = ends_with("vooropleiding."), Intenties = 
 
 ## Analyseer de data
 ```{r}
-library(ggplot2)
 ggplot(newDF) + ## Databron
   geom_bar(aes(x = Vooropleiding, fill = Vooropleiding)) + ## Variabelen
   theme(legend.position = "none", axis.text.x = element_text(angle = 60, hjust = 1)) ## Opmaak

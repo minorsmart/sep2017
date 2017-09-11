@@ -187,11 +187,15 @@ rawDF &lt;- read.csv(url, sep = &quot;;&quot;, stringsAsFactors = FALSE)</code><
 <h2>Controleer de kwaliteit van de data</h2>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuc3RyKHN1cnZleURGKVxuYGBgIn0= -->
-<pre class="r"><code>str(surveyDF)</code></pre>
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuc3RyKHJhd0RGKVxuYGBgIn0= -->
+<pre class="r"><code>str(rawDF)</code></pre>
 <!-- rnb-source-end -->
-<!-- rnb-output-begin eyJkYXRhIjoiJ2RhdGEuZnJhbWUnOlx0Mjkgb2JzLiBvZiAgMCB2YXJpYWJsZXNcbiJ9 -->
-<pre><code>'data.frame':   29 obs. of  0 variables</code></pre>
+<!-- rnb-output-begin eyJkYXRhIjoiJ2RhdGEuZnJhbWUnOlx0Mjkgb2JzLiBvZiAgNCB2YXJpYWJsZXM6XG4gJCBXYXQuaXMuamUudm9vcm9wbGVpZGluZy4gICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogY2hyICBcIk1CT1wiIFwiSEFWT1wiIFwiSEFWT1wiIFwiSEFWT1wiIC4uLlxuICQgV2F0Lnppam4uamUuaW50ZW50aWVzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IGNociAgXCJJayBnYSBhbGxlIGFhbmdlYm9kZW4gZmFjaWxpdGVpdGVuIGJlbnV0dGVuIHZvb3IgZWVuIG9wdGltYWFsIHJlc3VsdGFhdFwiIFwiSWsgZ2EgYWxsZSBhYW5nZWJvZGVuIGZhY2lsaXRlaXRlbiBiZW51dHRlbiB2b29yIGVlbiBvcHRpbWFhbCByZXN1bHRhYXRcIiBcIklrIGdhIGFsbGUgYWFuZ2Vib2RlbiBmYWNpbGl0ZWl0ZW4gYmVudXR0ZW4gdm9vciBlZW4gb3B0aW1hYWwgcmVzdWx0YWF0XCIgXCJJayBnYSBhbGxlIGFhbmdlYm9kZW4gZmFjaWxpdGVpdGVuIGJlbnV0dGVuIHZvb3IgZWVuIG9wdGltYWFsIHJlc3VsdGFhdFwiIC4uLlxuICQgT3Aud2Vsa2UubWFuaWVyLndlcmQuamUub3AuZGV6ZS5taW5vci5nZWF0dGVuZGVlcmQuICA6IGNociAgXCJBbmRlcnNcIiBcIlZpYSBlZW4gcG9zdGVyXCIgXCJWaWEgZWVuIGRvY2VudCAvIHN0dWRpZWJlZ2VsZWlkZXJcIiBcIlZpYSBkZSBLaWVzIG9wIE1hYXQgc2l0ZVwiIC4uLlxuICQgV2F0LmhlYi5qZS5hbC5nZWRhYW4udGVyLnZvb3JiZXJlaWRpbmcub3AuZGV6ZS5taW5vci46IGNociAgXCJJayBoZWIgbWV0IGV4cGVydHMgKGJpanYuIGRvY2VudGVuKSBnZXNwcm9rZW5cIiBcIklrIGhlYiBtZXQgZXhwZXJ0cyAoYmlqdi4gZG9jZW50ZW4pIGdlc3Byb2tlblxcbklrIGhlYiBkZSBkb2N1bWVudGF0aWUgb3AgZGV6ZSBzaXRlIGRvb3JnZW5vbWVuXFxuQW5kZXJzXCIgXCJJayBoZWIgb25saW5lIGdlem9jaHQgbmFhciBkb2N1bWVudGF0aWUgb3ZlciBoZXQgdGhlbWFcXG5JayBoZWIgZGUgZG9jdW1lbnRhdGllIG9wIGRlemUgc2l0ZSBkb29yZ2Vub21lblwiIFwiSWsgaGViIG9ubGluZSBnZXpvY2h0IG5hYXIgZG9jdW1lbnRhdGllIG92ZXIgaGV0IHRoZW1hXCIgLi4uXG4ifQ== -->
+<pre><code>'data.frame':   29 obs. of  4 variables:
+ $ Wat.is.je.vooropleiding.                             : chr  &quot;MBO&quot; &quot;HAVO&quot; &quot;HAVO&quot; &quot;HAVO&quot; ...
+ $ Wat.zijn.je.intenties                                : chr  &quot;Ik ga alle aangeboden faciliteiten benutten voor een optimaal resultaat&quot; &quot;Ik ga alle aangeboden faciliteiten benutten voor een optimaal resultaat&quot; &quot;Ik ga alle aangeboden faciliteiten benutten voor een optimaal resultaat&quot; &quot;Ik ga alle aangeboden faciliteiten benutten voor een optimaal resultaat&quot; ...
+ $ Op.welke.manier.werd.je.op.deze.minor.geattendeerd.  : chr  &quot;Anders&quot; &quot;Via een poster&quot; &quot;Via een docent / studiebegeleider&quot; &quot;Via de Kies op Maat site&quot; ...
+ $ Wat.heb.je.al.gedaan.ter.voorbereiding.op.deze.minor.: chr  &quot;Ik heb met experts (bijv. docenten) gesproken&quot; &quot;Ik heb met experts (bijv. docenten) gesproken\nIk heb de documentatie op deze site doorgenomen\nAnders&quot; &quot;Ik heb online gezocht naar documentatie over het thema\nIk heb de documentatie op deze site doorgenomen&quot; &quot;Ik heb online gezocht naar documentatie over het thema&quot; ...</code></pre>
 <!-- rnb-output-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
@@ -211,9 +215,8 @@ newDF &lt;- select(rawDF, Vooropleiding = ends_with(&quot;vooropleiding.&quot;),
 <h2>Analyseer de data</h2>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxubGlicmFyeShnZ3Bsb3QyKVxuZ2dwbG90KG5ld0RGKSArICMjIERhdGFicm9uXG4gIGdlb21fYmFyKGFlcyh4ID0gVm9vcm9wbGVpZGluZywgZmlsbCA9IFZvb3JvcGxlaWRpbmcpKSArICMjIFZhcmlhYmVsZW5cbiAgdGhlbWUobGVnZW5kLnBvc2l0aW9uID0gXCJub25lXCIsIGF4aXMudGV4dC54ID0gZWxlbWVudF90ZXh0KGFuZ2xlID0gNjAsIGhqdXN0ID0gMSkpICMjIE9wbWFha1xuYGBgIn0= -->
-<pre class="r"><code>library(ggplot2)
-ggplot(newDF) + ## Databron
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZ2dwbG90KG5ld0RGKSArICMjIERhdGFicm9uXG4gIGdlb21fYmFyKGFlcyh4ID0gVm9vcm9wbGVpZGluZywgZmlsbCA9IFZvb3JvcGxlaWRpbmcpKSArICMjIFZhcmlhYmVsZW5cbiAgdGhlbWUobGVnZW5kLnBvc2l0aW9uID0gXCJub25lXCIsIGF4aXMudGV4dC54ID0gZWxlbWVudF90ZXh0KGFuZ2xlID0gNjAsIGhqdXN0ID0gMSkpICMjIE9wbWFha1xuYGBgIn0= -->
+<pre class="r"><code>ggplot(newDF) + ## Databron
   geom_bar(aes(x = Vooropleiding, fill = Vooropleiding)) + ## Variabelen
   theme(legend.position = &quot;none&quot;, axis.text.x = element_text(angle = 60, hjust = 1)) ## Opmaak</code></pre>
 <!-- rnb-source-end -->
@@ -223,7 +226,7 @@ ggplot(newDF) + ## Databron
 <!-- rnb-chunk-end -->
 </div>
 
-<div id="rmd-source-code">LS0tCnRpdGxlOiAiU3RhcnRzdXJ2ZXkiCm91dHB1dDogaHRtbF9ub3RlYm9vawotLS0KCiMjIExlZXMgZGUgZGF0YSBpbgoKYGBge3J9CnVybCA8LSAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21pbm9yc21hcnQvc2VwMjAxNy9tYXN0ZXIvcHJvai9zdXJ2ZXkvU3RhcnRzdXJ2ZXkuY3N2IgpyYXdERiA8LSByZWFkLmNzdih1cmwsIHNlcCA9ICI7Iiwgc3RyaW5nc0FzRmFjdG9ycyA9IEZBTFNFKQpgYGAKCiMjIENvbnRyb2xlZXIgZGUga3dhbGl0ZWl0IHZhbiBkZSBkYXRhCmBgYHtyfQpzdHIocmF3REYpCmBgYAoKIyMgQmV3ZXJrIGRlIGRhdGEKYGBge3J9CmxpYnJhcnkodGlkeXIpCm5ld0RGIDwtIHNlbGVjdChyYXdERiwgVm9vcm9wbGVpZGluZyA9IGVuZHNfd2l0aCgidm9vcm9wbGVpZGluZy4iKSwgSW50ZW50aWVzID0gZW5kc193aXRoKCJpbnRlbnRpZXMiKSwgSW5zcGlyYXRpZSA9IGVuZHNfd2l0aCgiZ2VhdHRlbmRlZXJkLiIpLCBWb29yYmVyZWlkaW5nID0gZW5kc193aXRoKCIubWlub3IuIikpCmBgYAoKCiMjIEFuYWx5c2VlciBkZSBkYXRhCmBgYHtyfQpsaWJyYXJ5KGdncGxvdDIpCmdncGxvdChuZXdERikgKyAjIyBEYXRhYnJvbgogIGdlb21fYmFyKGFlcyh4ID0gVm9vcm9wbGVpZGluZywgZmlsbCA9IFZvb3JvcGxlaWRpbmcpKSArICMjIFZhcmlhYmVsZW4KICB0aGVtZShsZWdlbmQucG9zaXRpb24gPSAibm9uZSIsIGF4aXMudGV4dC54ID0gZWxlbWVudF90ZXh0KGFuZ2xlID0gNjAsIGhqdXN0ID0gMSkpICMjIE9wbWFhawpgYGA=</div>
+<div id="rmd-source-code">LS0tCnRpdGxlOiAiU3RhcnRzdXJ2ZXkiCm91dHB1dDogaHRtbF9ub3RlYm9vawotLS0KCiMjIExlZXMgZGUgZGF0YSBpbgoKYGBge3J9CnVybCA8LSAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21pbm9yc21hcnQvc2VwMjAxNy9tYXN0ZXIvcHJvai9zdXJ2ZXkvU3RhcnRzdXJ2ZXkuY3N2IgpyYXdERiA8LSByZWFkLmNzdih1cmwsIHNlcCA9ICI7Iiwgc3RyaW5nc0FzRmFjdG9ycyA9IEZBTFNFKQpgYGAKCiMjIENvbnRyb2xlZXIgZGUga3dhbGl0ZWl0IHZhbiBkZSBkYXRhCmBgYHtyfQpzdHIocmF3REYpCmBgYAoKIyMgQmV3ZXJrIGRlIGRhdGEKYGBge3J9CmxpYnJhcnkodGlkeXIpCm5ld0RGIDwtIHNlbGVjdChyYXdERiwgVm9vcm9wbGVpZGluZyA9IGVuZHNfd2l0aCgidm9vcm9wbGVpZGluZy4iKSwgSW50ZW50aWVzID0gZW5kc193aXRoKCJpbnRlbnRpZXMiKSwgSW5zcGlyYXRpZSA9IGVuZHNfd2l0aCgiZ2VhdHRlbmRlZXJkLiIpLCBWb29yYmVyZWlkaW5nID0gZW5kc193aXRoKCIubWlub3IuIikpCmBgYAoKCiMjIEFuYWx5c2VlciBkZSBkYXRhCmBgYHtyfQpnZ3Bsb3QobmV3REYpICsgIyMgRGF0YWJyb24KICBnZW9tX2JhcihhZXMoeCA9IFZvb3JvcGxlaWRpbmcsIGZpbGwgPSBWb29yb3BsZWlkaW5nKSkgKyAjIyBWYXJpYWJlbGVuCiAgdGhlbWUobGVnZW5kLnBvc2l0aW9uID0gIm5vbmUiLCBheGlzLnRleHQueCA9IGVsZW1lbnRfdGV4dChhbmdsZSA9IDYwLCBoanVzdCA9IDEpKSAjIyBPcG1hYWsKYGBg</div>
 
 
 
