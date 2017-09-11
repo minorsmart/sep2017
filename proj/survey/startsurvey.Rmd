@@ -3,26 +3,26 @@ title: "Startsurvey"
 output: html_notebook
 ---
 
-## Lees de data in
+### Lees de data in
 
 ```{r}
 url <- "https://raw.githubusercontent.com/minorsmart/sep2017/master/proj/survey/Startsurvey.csv"
 rawDF <- read.csv(url, sep = ";", stringsAsFactors = FALSE)
 ```
 
-## Controleer de kwaliteit van de data
+### Controleer de kwaliteit van de data
 ```{r}
 str(rawDF)
 ```
 
-## Bewerk de data
+### Bewerk de data
 ```{r}
 library(tidyr)
 newDF <- select(rawDF, Vooropleiding = ends_with("vooropleiding."), Intenties = ends_with("intenties"), Inspiratie = ends_with("geattendeerd."), Voorbereiding = ends_with(".minor."))
 ```
 
 
-## Analyseer de data
+### Analyseer de data
 ```{r}
 ggplot(newDF) + ## Databron
   geom_bar(aes(x = Vooropleiding, fill = Vooropleiding)) + ## Variabelen

@@ -172,8 +172,8 @@ $(document).ready(function () {
 
 
 <!-- rnb-text-begin -->
-<div id="lees-de-data-in" class="section level2">
-<h2>Lees de data in</h2>
+<div id="lees-de-data-in" class="section level3">
+<h3>Lees de data in</h3>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
 <!-- rnb-source-begin eyJkYXRhIjoiYGBgclxudXJsIDwtIFwiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21pbm9yc21hcnQvc2VwMjAxNy9tYXN0ZXIvcHJvai9zdXJ2ZXkvU3RhcnRzdXJ2ZXkuY3N2XCJcbnJhd0RGIDwtIHJlYWQuY3N2KHVybCwgc2VwID0gXCI7XCIsIHN0cmluZ3NBc0ZhY3RvcnMgPSBGQUxTRSlcbmBgYCJ9 -->
@@ -183,8 +183,8 @@ rawDF &lt;- read.csv(url, sep = &quot;;&quot;, stringsAsFactors = FALSE)</code><
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 </div>
-<div id="controleer-de-kwaliteit-van-de-data" class="section level2">
-<h2>Controleer de kwaliteit van de data</h2>
+<div id="controleer-de-kwaliteit-van-de-data" class="section level3">
+<h3>Controleer de kwaliteit van de data</h3>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
 <!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuc3RyKHJhd0RGKVxuYGBgIn0= -->
@@ -200,8 +200,8 @@ rawDF &lt;- read.csv(url, sep = &quot;;&quot;, stringsAsFactors = FALSE)</code><
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 </div>
-<div id="bewerk-de-data" class="section level2">
-<h2>Bewerk de data</h2>
+<div id="bewerk-de-data" class="section level3">
+<h3>Bewerk de data</h3>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
 <!-- rnb-source-begin eyJkYXRhIjoiYGBgclxubGlicmFyeSh0aWR5cilcbm5ld0RGIDwtIHNlbGVjdChyYXdERiwgVm9vcm9wbGVpZGluZyA9IGVuZHNfd2l0aChcInZvb3JvcGxlaWRpbmcuXCIpLCBJbnRlbnRpZXMgPSBlbmRzX3dpdGgoXCJpbnRlbnRpZXNcIiksIEluc3BpcmF0aWUgPSBlbmRzX3dpdGgoXCJnZWF0dGVuZGVlcmQuXCIpLCBWb29yYmVyZWlkaW5nID0gZW5kc193aXRoKFwiLm1pbm9yLlwiKSlcbmBgYCJ9 -->
@@ -211,8 +211,8 @@ newDF &lt;- select(rawDF, Vooropleiding = ends_with(&quot;vooropleiding.&quot;),
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 </div>
-<div id="analyseer-de-data" class="section level2">
-<h2>Analyseer de data</h2>
+<div id="analyseer-de-data" class="section level3">
+<h3>Analyseer de data</h3>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
 <!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuZ2dwbG90KG5ld0RGKSArICMjIERhdGFicm9uXG4gIGdlb21fYmFyKGFlcyh4ID0gVm9vcm9wbGVpZGluZywgZmlsbCA9IFZvb3JvcGxlaWRpbmcpKSArICMjIFZhcmlhYmVsZW5cbiAgdGhlbWUobGVnZW5kLnBvc2l0aW9uID0gXCJub25lXCIsIGF4aXMudGV4dC54ID0gZWxlbWVudF90ZXh0KGFuZ2xlID0gNjAsIGhqdXN0ID0gMSkpICMjIE9wbWFha1xuYGBgIn0= -->
@@ -226,7 +226,7 @@ newDF &lt;- select(rawDF, Vooropleiding = ends_with(&quot;vooropleiding.&quot;),
 <!-- rnb-chunk-end -->
 </div>
 
-<div id="rmd-source-code">LS0tCnRpdGxlOiAiU3RhcnRzdXJ2ZXkiCm91dHB1dDogaHRtbF9ub3RlYm9vawotLS0KCiMjIExlZXMgZGUgZGF0YSBpbgoKYGBge3J9CnVybCA8LSAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21pbm9yc21hcnQvc2VwMjAxNy9tYXN0ZXIvcHJvai9zdXJ2ZXkvU3RhcnRzdXJ2ZXkuY3N2IgpyYXdERiA8LSByZWFkLmNzdih1cmwsIHNlcCA9ICI7Iiwgc3RyaW5nc0FzRmFjdG9ycyA9IEZBTFNFKQpgYGAKCiMjIENvbnRyb2xlZXIgZGUga3dhbGl0ZWl0IHZhbiBkZSBkYXRhCmBgYHtyfQpzdHIocmF3REYpCmBgYAoKIyMgQmV3ZXJrIGRlIGRhdGEKYGBge3J9CmxpYnJhcnkodGlkeXIpCm5ld0RGIDwtIHNlbGVjdChyYXdERiwgVm9vcm9wbGVpZGluZyA9IGVuZHNfd2l0aCgidm9vcm9wbGVpZGluZy4iKSwgSW50ZW50aWVzID0gZW5kc193aXRoKCJpbnRlbnRpZXMiKSwgSW5zcGlyYXRpZSA9IGVuZHNfd2l0aCgiZ2VhdHRlbmRlZXJkLiIpLCBWb29yYmVyZWlkaW5nID0gZW5kc193aXRoKCIubWlub3IuIikpCmBgYAoKCiMjIEFuYWx5c2VlciBkZSBkYXRhCmBgYHtyfQpnZ3Bsb3QobmV3REYpICsgIyMgRGF0YWJyb24KICBnZW9tX2JhcihhZXMoeCA9IFZvb3JvcGxlaWRpbmcsIGZpbGwgPSBWb29yb3BsZWlkaW5nKSkgKyAjIyBWYXJpYWJlbGVuCiAgdGhlbWUobGVnZW5kLnBvc2l0aW9uID0gIm5vbmUiLCBheGlzLnRleHQueCA9IGVsZW1lbnRfdGV4dChhbmdsZSA9IDYwLCBoanVzdCA9IDEpKSAjIyBPcG1hYWsKYGBg</div>
+<div id="rmd-source-code">LS0tCnRpdGxlOiAiU3RhcnRzdXJ2ZXkiCm91dHB1dDogaHRtbF9ub3RlYm9vawotLS0KCiMjIyBMZWVzIGRlIGRhdGEgaW4KCmBgYHtyfQp1cmwgPC0gImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9taW5vcnNtYXJ0L3NlcDIwMTcvbWFzdGVyL3Byb2ovc3VydmV5L1N0YXJ0c3VydmV5LmNzdiIKcmF3REYgPC0gcmVhZC5jc3YodXJsLCBzZXAgPSAiOyIsIHN0cmluZ3NBc0ZhY3RvcnMgPSBGQUxTRSkKYGBgCgojIyMgQ29udHJvbGVlciBkZSBrd2FsaXRlaXQgdmFuIGRlIGRhdGEKYGBge3J9CnN0cihyYXdERikKYGBgCgojIyMgQmV3ZXJrIGRlIGRhdGEKYGBge3J9CmxpYnJhcnkodGlkeXIpCm5ld0RGIDwtIHNlbGVjdChyYXdERiwgVm9vcm9wbGVpZGluZyA9IGVuZHNfd2l0aCgidm9vcm9wbGVpZGluZy4iKSwgSW50ZW50aWVzID0gZW5kc193aXRoKCJpbnRlbnRpZXMiKSwgSW5zcGlyYXRpZSA9IGVuZHNfd2l0aCgiZ2VhdHRlbmRlZXJkLiIpLCBWb29yYmVyZWlkaW5nID0gZW5kc193aXRoKCIubWlub3IuIikpCmBgYAoKCiMjIyBBbmFseXNlZXIgZGUgZGF0YQpgYGB7cn0KZ2dwbG90KG5ld0RGKSArICMjIERhdGFicm9uCiAgZ2VvbV9iYXIoYWVzKHggPSBWb29yb3BsZWlkaW5nLCBmaWxsID0gVm9vcm9wbGVpZGluZykpICsgIyMgVmFyaWFiZWxlbgogIHRoZW1lKGxlZ2VuZC5wb3NpdGlvbiA9ICJub25lIiwgYXhpcy50ZXh0LnggPSBlbGVtZW50X3RleHQoYW5nbGUgPSA2MCwgaGp1c3QgPSAxKSkgIyMgT3BtYWFrCmBgYA==</div>
 
 
 
