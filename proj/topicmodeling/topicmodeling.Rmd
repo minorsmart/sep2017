@@ -17,7 +17,8 @@ library(ggplot2)
 library(dplyr)
 
 url <- "https://docs.google.com/spreadsheets/d/1NU30YBPazcsg4-2oYKwjEiVam1_foJecoASRiOzKhX4/edit?usp=sharing"
-responses <- as.data.frame(gsheet2tbl(url = url, sheetid = NULL))
+responses <- (gsheet2tbl(url = url, sheetid = NULL))
+responses <- responses %>% as.data.frame()
 head(responses)
 ```
 
