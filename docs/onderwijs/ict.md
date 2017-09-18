@@ -3,5 +3,5 @@
 Punten:
 + survey
 + moodle quiz
-+ ICT vaardigheden koppelen aan opdrachten (java, HTML, cloud, SQL, RESTHPI, Python, R)
++ ICT vaardigheden koppelen aan opdrachten (java, HTML, cloud, SQL, REST API, Python, R)
 + zelfreflectie
