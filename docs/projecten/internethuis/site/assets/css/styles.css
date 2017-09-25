@@ -1,6 +1,6 @@
 html, body{
 	font-size:16px;
-	color: #dfdfdf;
+	color: #black;
 	background-color: #063647; 
 }
 
@@ -69,7 +69,7 @@ a.nav-item:hover {
 
 .box {
 	background-color: transparent;
-	border: 1px solid #eee;
+	border: 1px solid #fff;
 }
 
 .title {
