@@ -85,7 +85,7 @@ a.nav-item:hover {
 }
 
 .void-background {
-	background-color: #e21a22; 
+	background-color: transparent; 
 }
 
 @media screen and (max-width: 768px) {
