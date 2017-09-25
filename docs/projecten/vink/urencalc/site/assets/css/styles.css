@@ -39,7 +39,7 @@ a.nav-item {
 }
 
 a.nav-item:hover {
-	color: #e22c30;
+	color: #e21a22;
 }
 
 .avatar{
@@ -73,7 +73,7 @@ a.nav-item:hover {
 }
 
 .title {
-	color: #fff;
+	color: #e21a22;
 	text-align: left;
 	margin-bottom: 2rem;
 }
