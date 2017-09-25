@@ -1,15 +1,15 @@
 html, body{
 	font-size:16px;
-	color: #dfdfdf;
-	background-color: #063647; 
+	color: #FFFFFF;
+	background-color: #D80F19; 		/* Rode kleur logo */
 }
 
 a {
-  color: #00d1b2;
+  color: #FFFFFF;
 }
 
 a:hover {
-  color: #00d1b2;
+  color: #FFFFFF;
 }
 
 section{
@@ -18,24 +18,25 @@ section{
 }
 
 .section-1 {
-	background: #063647;
-}
+	background: #FFFFFF;	
+}	
 
 .section-2 {
-	background-color: #052D3D;
+	background-color: #989898; 		/* grijze kleur logo */
 }
 
 .section-3 {
-	background-color: #0E282E;
+	background-color: #FFFFFF;
 }
 
 .section-4 {
-	background-color: #063647;
+	background-color: #989898;		/* grijze kleur logo */
 	padding: 0.2rem;
+
 }
 
 a.nav-item {
-	color: #dfdfdf;
+	color: #FFFFFF;
 }
 
 a.nav-item:hover {
@@ -65,15 +66,16 @@ a.nav-item:hover {
 
 .project-text {
 	text-align: justify;
+	color: #000000;
 }
 
 .box {
 	background-color: transparent;
-	border: 2px solid rgba(7, 59, 79, 0.5);
+	border: 2px solid rgba(152, 152, 152, 0);		/* Decimale kleuren voor de rand om de tekst */
 }
 
 .title {
-	color: #fff;
+	color: #D80F19;
 	text-align: left;
 	margin-bottom: 2rem;
 }
@@ -81,6 +83,7 @@ a.nav-item:hover {
 .intro {
 	text-align: justify;
 	width: 80%;
+	color: #000000;
 	margin: 0 auto;
 }
 
@@ -90,7 +93,7 @@ a.nav-item:hover {
 
 @media screen and (max-width: 768px) {
 	.nav-menu {
-		background-color: #063647;
+		background-color: #989898;
 	}
 
 	.nav-toggle:hover {
@@ -98,7 +101,7 @@ a.nav-item:hover {
 	}
 
 	.nav-toggle span {
-		background-color: #dfdfdf;
+		background-color: #FFFFFF;
 	}
 
 	.nav-toggle span:hover {
