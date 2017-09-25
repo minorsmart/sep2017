@@ -1,6 +1,6 @@
 fhtml, body{
 	font-size:16px;
-	color: #black;
+	color: #171717;
 	background-color: #ff0000; 
 }
 
@@ -18,19 +18,19 @@ section{
 }
 
 .section-1 {
-	background: #efefef;
+	background: #e0e0e0;
 }
 
 .section-2 {
-	background-color: #efefef;
+	background-color: #e0e0e0;
 }
 
 .section-3 {
-	background-color: #efefef;
+	background-color: #e0e0e0;
 }
 
 .section-4 {
-	background-color: #efefef;
+	background-color: #e0e0e0;
 	padding: 0.2rem;
 }
 
@@ -39,7 +39,7 @@ a.nav-item {
 }
 
 a.nav-item:hover {
-	color: #fff;
+	color: #e22c30;
 }
 
 .avatar{
