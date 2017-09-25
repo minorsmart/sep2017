@@ -52,7 +52,7 @@ a.nav-item:hover {
 }
 
 .social-container img{
-	max-width:100%;
+	max-width:50%;
 	max-height:175px;
 	margin-bottom:15px;
 }
