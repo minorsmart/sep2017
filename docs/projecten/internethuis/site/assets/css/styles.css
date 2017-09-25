@@ -1,6 +1,6 @@
 html, body{
 	font-size:16px;
-	color: #dfdfdf;
+	color: #black;
 	background-color: #063647; 
 }
 
@@ -18,11 +18,11 @@ section{
 }
 
 .section-1 {
-	background: #063647;
+	background: #fff;
 }
 
 .section-2 {
-	background-color: #052D3D;
+	background-color: #eee;
 }
 
 .section-3 {
@@ -69,11 +69,11 @@ a.nav-item:hover {
 
 .box {
 	background-color: transparent;
-	border: 2px solid rgba(7, 59, 79, 0.5);
+	border: 1px solid #fff;
 }
 
 .title {
-	color: #fff;
+	color: #000000;
 	text-align: left;
 	margin-bottom: 2rem;
 }
