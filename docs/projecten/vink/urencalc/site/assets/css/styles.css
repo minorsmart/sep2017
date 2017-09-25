@@ -1,7 +1,7 @@
-html, body{
+fhtml, body{
 	font-size:16px;
-	color: #dfdfdf;
-	background-color: #063647; 
+	color: #171717;
+	background-color: #ff0000; 
 }
 
 a {
@@ -18,28 +18,28 @@ section{
 }
 
 .section-1 {
-	background: #063647;
+	background: #e0e0e0;
 }
 
 .section-2 {
-	background-color: #052D3D;
+	background-color: #e0e0e0;
 }
 
 .section-3 {
-	background-color: #0E282E;
+	background-color: #e0e0e0;
 }
 
 .section-4 {
-	background-color: #063647;
+	background-color: #e0e0e0;
 	padding: 0.2rem;
 }
 
 a.nav-item {
-	color: #dfdfdf;
+	color: #fff;
 }
 
 a.nav-item:hover {
-	color: #fff;
+	color: #e21a22;
 }
 
 .avatar{
@@ -73,7 +73,7 @@ a.nav-item:hover {
 }
 
 .title {
-	color: #fff;
+	color: #e21a22;
 	text-align: left;
 	margin-bottom: 2rem;
 }
