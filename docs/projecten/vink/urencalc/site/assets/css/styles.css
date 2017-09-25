@@ -18,11 +18,11 @@ section{
 }
 
 .section-1 {
-	background: #e0e0e0;
+	background-color: #e0e0e0;
 }
 
 .section-2 {
-	background-color: #e0e0e0;
+	background-color: #eeeeee;
 }
 
 .section-3 {
@@ -30,7 +30,7 @@ section{
 }
 
 .section-4 {
-	background-color: #e0e0e0;
+	background-color: #eeeeee;
 	padding: 0.2rem;
 }
 
@@ -85,7 +85,7 @@ a.nav-item:hover {
 }
 
 .void-background {
-	background-color: transparent; 
+	background-color: #e21a22; 
 }
 
 @media screen and (max-width: 768px) {
