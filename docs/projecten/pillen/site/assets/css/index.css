@@ -87,17 +87,17 @@ html, body {
 .page-wrap {
     min-height: 100%;
     /* equal to footer height */
-    margin-bottom: -142px;
+    margin-bottom: -100px;
 }
 .page-wrap:after {
     content: "";
     display: block;
 }
 .site-footer, .page-wrap:after {
-    height: 142px;
+    height: 100px;
 }
 .site-footer {
-    background: orange;
+    background: #0076b7;
 }
 p {
     text-align: justify;
