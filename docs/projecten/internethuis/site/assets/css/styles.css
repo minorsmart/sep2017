@@ -23,7 +23,6 @@ section{
 
 .section-2 {
 	background-color: #eee;
-	color: #000000;
 }
 
 .section-3 {
@@ -74,7 +73,7 @@ a.nav-item:hover {
 }
 
 .title {
-	color: #fff;
+	color: #000000;
 	text-align: left;
 	margin-bottom: 2rem;
 }
