@@ -79,6 +79,10 @@ a.nav-item:hover {
 	margin-bottom: 2rem;
 }
 
+.titletop {
+	text-align: center;
+}
+
 .intro {
 	text-align: justify;
 	width: 80%;
