@@ -1,7 +1,7 @@
 html, body{
 	font-size:16px;
 	color: #dfdfdf;
-	background-color: #063647; 
+	background-color: #010e12; 
 }
 
 a {
@@ -18,11 +18,11 @@ a:hover {
 }
 
 .section-1 {
-	background: #063647;
+	background: #555757;
 }
 
 .section-2 {
-	background-color: #052D3D;
+	background-color: #1C1D1E;
 }
 
 .section-3 {
@@ -69,7 +69,7 @@ a.nav-item:hover {
 
 .box {
 	background-color: transparent;
-	border: 2px solid rgba(7, 59, 79, 0.5);
+	border:  2px solid rgba(58, 58, 59, 0.5)
 }
 
 .title {
