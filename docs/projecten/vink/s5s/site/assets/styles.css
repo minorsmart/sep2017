@@ -5,11 +5,11 @@ html, body{
 }
 
 a {
-  color: #FFFFFF;
+  color: #000000;
 }
 
 a:hover {
-  color: #FFFFFF;
+  color: #D80F19;
 }
 
 section{
@@ -31,7 +31,7 @@ section{
 
 .section-4 {
 	background-color: #989898;		/* grijze kleur logo */
-	padding: 0.1rem;
+	
 
 }
 
@@ -113,7 +113,7 @@ a.nav-item:hover {
 
 
 .footer {
-    height: 10px;
+    height: 2px;
 }
 
 .section-44 {
