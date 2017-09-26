@@ -5,11 +5,11 @@ html, body{
 }
 
 a {
-  color: #D80F19;		/* Kleur van tekst met link erachter */
+  color: #000000;
 }
 
 a:hover {
-  color: #D80F19;		/* Kleur van tekst met link erachter als je muis op houdt */
+  color: #D80F19;
 }
 
 section{
