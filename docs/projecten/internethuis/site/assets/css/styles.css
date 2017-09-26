@@ -18,8 +18,7 @@ section{
 }
 
 .section-1 {
-	background: #eee;
-	 background-image: url(assets/img/boerderij.jpg);
+	background-color: #eee;	 
 }
 
 .section-2 {
@@ -33,6 +32,12 @@ section{
 .section-4 {
 	background-color: #063647;
 	padding: 0.2rem;
+}
+
+.has-text-centered {
+    background-image: url(assets/img/boerderij.jpg);
+    background-repeat: no-repeat;
+    margin-left: 450px;
 }
 
 a.nav-item {
