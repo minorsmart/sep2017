@@ -25,6 +25,10 @@ section{
 	background-color: #eeeeee;
 }
 
+.section-2 p {
+	tekst-align:left;
+}
+
 .section-3 {
 	background-color: #e0e0e0;
 }
