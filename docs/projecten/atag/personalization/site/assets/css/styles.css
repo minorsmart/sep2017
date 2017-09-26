@@ -12,7 +12,7 @@ a:hover {
   color: #00d1b2;
 }
 
-section{
+.section{
 	padding-top: 3rem;
 	padding-bottom: 3rem;
 }
@@ -59,8 +59,8 @@ a.nav-item:hover {
 
 .project-figure {
 	margin: 0 auto 1rem auto;
-	max-height: 256px;
-	max-width: 256px;
+	/*max-height: 256px; */
+	max-width: 600px;
 }
 
 .project-text {
@@ -105,4 +105,8 @@ a.nav-item:hover {
 		background-color: #fff;
 	}
 
+}
+
+.spacebox {
+	padding-bottom: 30px;
 }
