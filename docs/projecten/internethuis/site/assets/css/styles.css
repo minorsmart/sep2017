@@ -34,12 +34,6 @@ section{
 	padding: 0.2rem;
 }
 
-.container has-text-centered {
-    background-image: url(assets/img/boerderij.jpg);
-    background-repeat: no-repeat;
-    margin-left: 450px;
-}
-
 a.nav-item {
 	color: #dfdfdf;
 }
