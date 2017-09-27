@@ -22,7 +22,7 @@ section{
 }
 
 .section-2 {
-	background-color: #000000;
+	background-color: #FFFFFF;
 }
 
 .section-3 {
@@ -64,6 +64,7 @@ a.nav-item:hover {
 }
 
 .project-text {
+	color: #B1B3B4;
 	text-align: justify;
 }
 
@@ -79,7 +80,7 @@ a.nav-item:hover {
 }
 
 .intro {
-	color: #B1B3B4;
+	color: #FFFFFF;
 	text-align: justify;
 	width: 80%;
 	margin: 0 auto;
