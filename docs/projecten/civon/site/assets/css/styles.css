@@ -73,7 +73,7 @@ a.nav-item:hover {
 }
 
 .title {
-	color: #fff;
+	color: #000000;
 	text-align: left;
 	margin-bottom: 2rem;
 }
@@ -102,7 +102,7 @@ a.nav-item:hover {
 	}
 
 	.nav-toggle span:hover {
-		background-color: #fff;
+		background-color: #000000;
 	}
 
 }
