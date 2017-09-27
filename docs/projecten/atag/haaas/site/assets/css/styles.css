@@ -86,6 +86,12 @@ a.nav-item:hover {
 	margin: 0 auto;
 }
 
+.titlewit {
+	color: #FFFFFF;
+	text-align: left;
+	margin-bottom: 2rem;
+}
+
 .void-background {
 	background-color: transparent; 
 }
