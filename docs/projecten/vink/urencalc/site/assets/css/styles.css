@@ -18,11 +18,15 @@ section{
 }
 
 .section-1 {
-	background: #e0e0e0;
+	background-color: #e0e0e0;
 }
 
 .section-2 {
-	background-color: #e0e0e0;
+	background-color: #eeeeee;
+}
+
+.section-2 p {
+	text-align:left;
 }
 
 .section-3 {
@@ -30,7 +34,7 @@ section{
 }
 
 .section-4 {
-	background-color: #e0e0e0;
+	
 	padding: 0.2rem;
 }
 
