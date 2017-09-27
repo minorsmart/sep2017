@@ -79,17 +79,17 @@ a.nav-item:hover {
 	margin-bottom: 2rem;
 }
 
+.titlew {
+	color: #FFFFFF;
+	text-align: left;
+	margin-bottom: 2rem;
+}
+
 .intro {
 	color: #FFFFFF;
 	text-align: justify;
 	width: 80%;
 	margin: 0 auto;
-}
-
-.titlewit {
-	color: #FFFFFF;
-	text-align: left;
-	margin-bottom: 2rem;
 }
 
 .void-background {
