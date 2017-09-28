@@ -106,3 +106,8 @@ a.nav-item:hover {
 	}
 
 }
+
+hr {
+    margin: 0px 0;
+    border: 1px solid #000;
+}
