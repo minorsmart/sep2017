@@ -26,6 +26,11 @@ Voorstelronde. Henry legt context en aanleiding opdracht. Inhoud eerste zes weke
 + Case studies
 + Economische effecten
 
+#### Afspraken
++ Tijd
++ Plek
++ Faciliteiten
+
 
 #### NB:
 + Saxion Minor: Leren Innoveren - Project Infrarood verzaming ontwerpen en business case.
