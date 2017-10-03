@@ -18,6 +18,14 @@ Voorstelronde. Henry legt context en aanleiding opdracht. Inhoud eerste zes weke
 + Verandertraject (met respect voor huidige personeel)
 + ICT voorwaarden (e.g. LORA)
 
+#### Verwachtingen
++ IST Situatie
++ SOLL
++ Traject onderzoeken
++ Voorwaarden / knelpunten
++ Case studies
++ Economische effecten
+
 
 #### NB:
 + Saxion Minor: Leren Innoveren - Project Infrarood verzaming ontwerpen en business case.
