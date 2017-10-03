@@ -11,7 +11,7 @@
 
 Voorstelronde. Henry legt context en aanleiding opdracht. Inhoud eerste zes weken afstemmen. Rondgang productie gedaan. 
 
-#### Uitkomsten:
+#### Thema's:
 + Best practices die lijken op Pillen onderzoeken.
 + Planningsproces beoordelen. IST situatie QRM
 + Structuur informatiekapitaal (waar - bij wie zit kennis, hoe wordt die gedeeld en bewaard)
