@@ -1,6 +1,6 @@
-#Startbijeenkomst
+# Startbijeenkomst
 
-Aanwezig:
+### Aanwezig:
 + Henry
 + Bart van Ommeren
 + Marcel Wind
