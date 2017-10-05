@@ -33,4 +33,4 @@ Voorstelronde. Henry legt context en aanleiding opdracht. Inhoud eerste zes weke
 
 
 #### NB:
-+ Saxion Minor: Leren Innoveren - Project Infrarood erwarming ontwerpen en business case.
++ Saxion Minor: Leren Innoveren - Project Infrarood Verwarming ontwerpen en business case.
