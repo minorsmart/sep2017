@@ -1,7 +1,7 @@
 html, body{
 	font-size:16px;
 	color: #000000;
-	background-color: #4d1a00; 
+	background-color: #ff6600; 
 }
 
 a {
@@ -22,15 +22,15 @@ section{
 }
 
 .section-2 {
-	background-color: #662200;
+	background-color: #ffffff;
 }
 
 .section-3 {
-	background-color: #4d1a00;
+	background-color: #ff6600;
 }
 
 .section-4 {
-	background-color: #662200;
+	background-color: #ff6600;
 	padding: 0.2rem;
 }
 
@@ -73,7 +73,7 @@ a.nav-item:hover {
 }
 
 .title {
-	color: #fff;
+	color: #000000;
 	text-align: left;
 	margin-bottom: 2rem;
 }
@@ -102,7 +102,7 @@ a.nav-item:hover {
 	}
 
 	.nav-toggle span:hover {
-		background-color: #fff;
+		background-color: #000000;
 	}
 
 }
