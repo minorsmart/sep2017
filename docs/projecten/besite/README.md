@@ -14,5 +14,5 @@ Bovenstaande informatie zorgen ervoor dat er een onderzoek gestart gaat worden v
 
 ## Contactpersonen
 + [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator / [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach** 
-+ [Peter Verbrugge] - Ontwikkelaar / [BeSite](https://www.besite.nl/)
++ [Peter Verbrugge](https://www.besite.nl/) - Ontwikkelaar / [BeSite](https://www.besite.nl/)
 + [Jan Spruijt](linkedin.com/in/janspruijt) - Academic Program Leader Smart Business / [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
