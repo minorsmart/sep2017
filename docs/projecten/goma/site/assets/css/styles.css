@@ -1,7 +1,7 @@
 html, body{
 	font-size:16px;
-	color: #dfdfdf;
-	background-color: #063647; 
+	color: #000000;
+	background-color: #005EAD; 
 }
 
 a {
@@ -18,20 +18,20 @@ section{
 }
 
 .section-1 {
-	background: #063647;
+	background: #F4F4F4;
 }
 
 .section-2 {
-	background-color: #052D3D;
+	background-color: #F4F4F4;
 }
 
 .section-3 {
-	background-color: #0E282E;
+	background-color: #F4F4F4;
 }
 
 .section-4 {
-	background-color: #063647;
-	padding: 0.2rem;
+	background-color: #F4F4F4;
+	
 }
 
 a.nav-item {
@@ -73,7 +73,7 @@ a.nav-item:hover {
 }
 
 .title {
-	color: #fff;
+	color: #000000;
 	text-align: left;
 	margin-bottom: 2rem;
 }
@@ -106,3 +106,10 @@ a.nav-item:hover {
 	}
 
 }
+
+hr {
+    margin: 0px 0;
+    border: 2px solid #F56606;
+}
+
+

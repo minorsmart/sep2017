@@ -25,12 +25,16 @@ section{
 	background-color: #eeeeee;
 }
 
+.section-2 p {
+	text-align:left;
+}
+
 .section-3 {
 	background-color: #e0e0e0;
 }
 
 .section-4 {
-	background-color: #eeeeee;
+	
 	padding: 0.2rem;
 }
 
@@ -45,6 +49,10 @@ a.nav-item:hover {
 .avatar{
 	height:200px;
 	border-radius: 50%;
+}
+
+img {
+    border-radius: 8px;
 }
 
 .intro-description{

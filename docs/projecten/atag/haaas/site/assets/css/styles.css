@@ -1,15 +1,15 @@
 html, body{
 	font-size:16px;
-	color: #dfdfdf;
-	background-color: #063647; 
+	color: #FFFFFF;
+	background-color: #004180; 
 }
 
 a {
-  color: #00d1b2;
+  color: #FFFFFF;
 }
 
 a:hover {
-  color: #00d1b2;
+  color: #FFFFFF;
 }
 
 section{
@@ -18,15 +18,15 @@ section{
 }
 
 .section-1 {
-	background: #063647;
+	background-color: #004180;
 }
 
 .section-2 {
-	background-color: #052D3D;
+	background-color: #FFFFFF;
 }
 
 .section-3 {
-	background-color: #0E282E;
+	background-color: #B1B3B4;
 }
 
 .section-4 {
@@ -64,6 +64,7 @@ a.nav-item:hover {
 }
 
 .project-text {
+	color: #004180;
 	text-align: justify;
 }
 
@@ -73,12 +74,19 @@ a.nav-item:hover {
 }
 
 .title {
-	color: #fff;
+	color: #004180;
+	text-align: left;
+	margin-bottom: 2rem;
+}
+
+.titlew {
+	color: #FFFFFF;
 	text-align: left;
 	margin-bottom: 2rem;
 }
 
 .intro {
+	color: #FFFFFF;
 	text-align: justify;
 	width: 80%;
 	margin: 0 auto;
@@ -90,7 +98,7 @@ a.nav-item:hover {
 
 @media screen and (max-width: 768px) {
 	.nav-menu {
-		background-color: #063647;
+		background-color: #004180;
 	}
 
 	.nav-toggle:hover {

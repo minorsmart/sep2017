@@ -1,139 +1,90 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-	<title>Portfolio</title>
-	<!-- css files -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
-	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.1/css/bulma.min.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+<title>Smart Kitchen - ATAG</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
 
-	<link rel="icon" type="image/x-icon" href="assets/img/favicon.png">
-	<meta name="author" content="Hassan Ali">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+body {
+    margin: 0;
+}
+
+/* Style the header */
+.header {
+    background-color:aliceblue;
+    padding: 50px;
+    text-align: center;
+    color: darkblue
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 480px; 
+
+border-style: solid;
+border-color:aliceblue
+
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Style the footer */
+.footer {
+    background-color: aliceblue;
+    padding: 10px;
+    text-align: center;
+    color:darkblue
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+</style>
 </head>
-	<body>
-		<!-- Navbar -->
-		<nav class="nav container void-background">
-			<!-- This "nav-menu" is hidden on mobile -->
-			<!-- Add the modifier "is-active" to display it on mobile -->
-			<div class="nav-left">
-				<a href="http://medium.com/@hassanhelfi/" class="nav-item">
-					<span class="icon">
-						<i class="fa fa-medium"></i>
-					</span>
-				</a>
-				<a href="http://github.com/helfi92" class="nav-item">
-					<span class="icon">
-						<i class="fa fa-github"></i>
-					</span>
-				</a>
-				<a href="https://twitter.com/hassanhelfi" class="nav-item">
-					<span class="icon">
-						<i class="fa fa-twitter"></i>
-					</span>
-				</a>				
-			</div>
+<body>
 
-			<div class="nav-right nav-menu">
-				<a class="nav-item" href="#about">About</a>
-				<a class="nav-item" href="#projects">Projects</a>
-				<a class="nav-item" href="#social">Social</a>
-			</div>
+<div class="header">
+  <h1><img src="image/atag.jpg" alt="ATAG" WIDTH="300" HEIGHT="100"></h1>
+  <h3>De Smart Kitchen</h3>
+  <p>In de onderstaande kolommen is meer informatie te vinden over de twee studenten die de opdracht 'Smart Kitchen' gaan uitvoeren bij ATAG. Ook is er een projectbeschrijving te vinden. Onderaan de pagina staan onze contactgegevens.</p>
+</div>
 
-			<!-- This "nav-toggle" hamburger menu is only visible on mobile -->
-			<!-- You need JavaScript to toggle the "is-active" class on "nav-menu" -->
-			<span class="nav-toggle">
-				<span></span>
-				<span></span>
-				<span></span>
-			</span>
-		</nav>
-				
-		<!-- About Me -->
-		<section id="about" class="section section-1">
-			<div class="container has-text-centered">
-				<!-- Source: https://flic.kr/p/pAZBNK -->
-				<img class="avatar" src="assets/img/profile.png">
-			</div>
-			<div class="container"></br>
-				<p class="intro">
-					Lorem Khaled Ipsum is a major key to success. To succeed you must believe. When you believe, you will succeed. Mogul talk. Find peace, life is like a water fall, you’ve gotta flow. Lion! Fan luv. Eliptical talk.
-				</p>
-			</div>
-		</section>
-		
-		<!-- Projects -->
-		<section  id="projects" class="section section-2">
-			<div class="container">
-				<div class="has-text-centered">
-					<h3 class="title is-3">Projects</h3>
-				</div>
-				
-				<div class="columns is-multiline is-desktop">
-					<!-- Project 1 -->
-					<div class="column">
-						<div class="box project-text">
-							<article>
-								<div>
-									<figure class="image project-figure">
-										<img src="assets/img/project-1.jpg" alt="Image">
-									</figure>
-								</div>
-								<div>			
-									<p>
-										They don’t want us to eat. I told you all this before, when you have a swimming pool, do not use chlorine, use salt water, the healing, salt water is the healing.
+<div class="row">
+  <div class="column" style="background-color:#FFFFFF;"><h3>Dennie Nieuwlaat</h3>                    <p>Ik ben Dennie Nieuwlaat, 21 jaar en en geboren in Roosendaal. In deze stad ben ik ook opgegroeid en heb ik op het Gertrudis College mijn HAVO afgerond. Vervolgens ben ik Technische Bedrijfskunde, op het Avans in Tilburg, gaan studeren. Ik zit inmiddels in mijn laatste jaar van de opleiding. In onderstaand filmpje kunt u meer informatie verkrijgen over mij en het onderwerp Smart Industry.</p>
+                    <iframe width="380" height="260" src="https://www.youtube.com/embed/Hc5dmS6VflE">
+                    </iframe></div>
+  <div class="column" style="background-color:#FFFFFF;"><h3>Vincent van Stam</h3>                    <p>Mijn naam is Vincent van Stam ik kom uit Ede en ben 21 jaar. Op de middelbare school heb ik de HAVO gevolgd op het streek in Ede Bovenbuurtweg. Op de Han in Arnhem doe ik Financial Services Management als opleiding en momenteel de minor smart industry.</p>                      <iframe width="380" height="280" src="https://www.youtube.com/embed/EjWzt9s9x-k">
+                    </iframe>
+</div>
+  <div class="column" style="background-color:#FFFFFF;"><h3>Projectbeschrijving</h3>
+      <p>Wat als we een huishouden beschouwen als een organisatie met processen? Welke functie en plaats heeft de keuken in dit geheel (WHY)? Hoe kan de waarde van de keuken worden verhoogd met Smart Industry enablers (HOW)? Kan het veiliger, efficiënter en effectiever? Hoe ziet de Smart Kitchen er uit (WHAT)?</p><p>Het onderzoekstraject bestaat uit twee fases. In fase 1 (zes weken) wordt onderzocht hoe het Smart paradigma aansluit bij de strategie van ATAG en worden antwoorden gezocht op de WHY- en *HOW-*vragen. De uitkomsten worden met de betrokkenen besproken, waarna de projecteigenaar een beslissing neemt over de richting van het vervolgonderzoek in de tweede fase (zes weken).</p><p>Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een overlegstructuur. Via een (web-based) informatiesysteem kunnen alle stakeholders bij voor hun relevante informatie. Het project wordt afgerond met één of meerdere uitgewerkte Smart Kitchen modellen (met prototypes van onderdelen) en een presentatie tijdens de Smart Industry Seminar primo 2018.</p></div>
+</div>
+
+<div class="footer">
+  <h2>CONTACT</h2>
+    <p>
+										Dennie Nieuwlaat <BR> Telefoonnummer: 06-25075381 <BR> Email: Dennieuw@Kpnmail.nl <BR> <BR></p>
+<a target="_blank" href="https://www.linkedin.com/in/dennie-nieuwlaat-74bb76122/"><img class="" src="images/Linkedin.jpg" WIDTH="20" HEIGHT="20"></a>
+        <p>
+										Vincent van Stam <BR> Telefoonnummer: 06-23144447 <BR> Email: VS.vanStam@student.han.nl <BR> <BR>
 									</p>
-								</div>
-							</article>
-						</div>
-					</div>
-					<!-- Project 2 -->
-					<div class="column">
-						<div class="box project-text">
-							<article>
-								<div>
-									<figure class="image project-figure">
-										<img src="assets/img/project-2.jpg" alt="Image">
-									</figure>
-								</div>
-								<div>			
-									<p>
-										Bless up. Another one. How’s business? Boomin. Don’t ever play yourself. Life is what you make it, so let’s make it.
-									</p>
-								</div>
-							</article>
-						</div>
-					</div>
-				</div>
+									<a target="_blank" href="http://facebook.com/profile.php?id=100004160446580"><img class="" src="images/FB.jpg" WIDTH="20" HEIGHT="20"></a>
 			</div>
-		</section>
-
-		<!-- Social -->
-		<section id="social" class="section section-3">
-			<div class="container">
-				<div class="has-text-centered">					
-					<h3 class="title is-3">Let's Socialize</h3>
-				</div>
-				<div class="social-container columns">
-					<div class="column is-4 has-text-centered">
-						<a target="_blank" href="https://ca.linkedin.com/in/hassan-ali-6132468a"><img class="" src="assets/img/linkedin.png"></a>
-					</div>
-					<div class="column is-4 has-text-centered">
-						<a target="_blank" href="https://www.instagram.com/helfiwalcott/"><img class=""  src="assets/img/instagram.png"></a>
-					</div>
-					<div class="column is-4 has-text-centered">
-						<a target="_blank" href="https://www.facebook.com/Hassan.Helfi"><img class="" src="assets/img/facebook.png"></a>
-					</div>
-				</div>
-			</div>
-		</section>	
-		
-		<!-- Footer -->
-		<section class="section-4 has-text-centered container">
-			<a href="http://www.hassanali.me/about">Hassan Ali</a>
-		</section>
-		
-		<!-- Scripts  -->
-		<script src="controller.js"></script>		
-	</body>	
-</html>
+		</body>
+	</html>
