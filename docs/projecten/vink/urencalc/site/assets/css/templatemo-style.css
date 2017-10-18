@@ -275,7 +275,13 @@ p:last-child { margin-bottom: 0; }
 	padding: 60px;
 }
 
-.tm-contact-form-left {	padding-right: 0; }
+.tm-contact-form-left {	
+	padding-right: 0;
+}
+
+.tm-contact-form-left img {	
+	width: 400px;
+}
 
 .tm-contact-form-right { padding-right: 0; }
 
