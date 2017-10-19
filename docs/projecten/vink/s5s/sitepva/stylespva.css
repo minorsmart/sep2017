@@ -1,0 +1,153 @@
+html, body{
+	font-size:16px;
+	color: #FFFFFF;
+	background-color: #D80F19; 		/* Rode kleur logo */
+}
+
+a {
+  color: #000000;
+}
+
+a:hover {
+  color: #D80F19;
+}
+
+section{
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+.section-1 {
+	background: #FFFFFF;	
+}	
+
+.section-2 {
+	background-color: #989898; 		/* grijze kleur logo */
+}
+
+.section-3 {
+	background-color: #FFFFFF;
+}
+
+.section-4 {
+	background-color: #989898;		/* grijze kleur logo */
+	
+
+}
+
+a.nav-item {
+	color: #FFFFFF;
+}
+
+a.nav-item:hover {
+	color: #fff;
+}
+
+.avatar{
+	height:200px;
+	border-radius: 50%;
+}
+
+.intro-description{
+	padding-top: 1rem;
+}
+
+.social-container img{
+	max-width:100%;
+	max-height:175px;
+	margin-bottom:15px;
+}
+
+.project-figure {
+	margin: 0 auto 1rem auto;
+	max-height: 256px;
+	max-width: 256px;
+}
+
+.project-text {
+	text-align: justify;
+	color: #000000;
+}
+
+.box {
+	background-color: transparent;
+	border: 2px solid rgba(152, 152, 152, 0);		/* Decimale kleuren voor de rand om de tekst */
+}
+
+.title {
+	color: #D80F19;
+	text-align: left;
+	margin-bottom: 2rem;
+}
+
+.intro {
+	text-align: justify;
+	width: 80%;
+	color: #000000;
+	margin: 0 auto;
+}
+
+.void-background {
+	background-color: transparent; 
+}
+
+@media screen and (max-width: 768px) {
+	.nav-menu {
+		background-color: #989898;
+	}
+
+	.nav-toggle:hover {
+		background-color: transparent;
+	}
+
+	.nav-toggle span {
+		background-color: #FFFFFF;
+	}
+
+	.nav-toggle span:hover {
+		background-color: #fff;
+	}
+
+}
+
+#myBtn {
+
+	display: none;
+ 
+	position: fixed;
+    
+	bottom: 20px;
+    
+	right: 30px;
+    
+	z-index: 99;
+    
+	border: none;
+    
+	outline: none;
+    
+	background-color: #D80F19;
+    
+	color: white;
+    cursor: pointer;
+    
+	padding: 15px;
+    
+	border-radius: 10px;
+
+}
+
+
+
+#myBtn:hover {
+   
+	background-color: #555;
+}
+
+.footer {
+    height: 2px;
+}
+
+.section-44 {
+    height: auto;
+}
