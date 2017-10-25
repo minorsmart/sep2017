@@ -1,5 +1,5 @@
 # Samenwerking Zwaartepunten Smart Region
-Aanwezig: Anne-Marie, Peter, Bram en Witek
+Aanwezig: Anne-Marie Haanstra, Peter Verschut, Bram Veenhuizen en Witek ten Hove
 
 ## Gespreksonderwerpen
 
@@ -9,8 +9,8 @@ Aanwezig: Anne-Marie, Peter, Bram en Witek
       + Opleidingen
          + Bedrijfskunde (Witek en Anne-MArie)
          + Automotive (Bram en Peter)
-         + Engineering (Erik Folgering en Jeroen)
-         + ICA (Deny)
+         + Engineering (Erik Folgering en Jeroen van Elburg)
+         + ICA (via Deny zoeken)
       + Bedrijven
          + Lijst van Peter
       + Provincie
@@ -29,5 +29,9 @@ Aanwezig: Anne-Marie, Peter, Bram en Witek
 5. Realisatie Smart Cell
    + Project gebruiken voor koppeling Economie en Technologie
    + Netwerk Bram en Peter: Samenwerkingsverbanden vastleggen, NDAs, Open Source
+   
+   
+Over twee weken samenkomen (Marlous maakt afspraak) en projectaanvraag (Bram stuurt Witek template).
+Anne-Marie maakt lijst met acties.
    
 
