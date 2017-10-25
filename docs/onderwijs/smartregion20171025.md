@@ -16,17 +16,18 @@ Aanwezig: Anne-Marie Haanstra, Peter Verschut, Bram Veenhuizen en Witek ten Hove
       + Provincie
          + Later betrekken
 2. Doelstellingen
-   + Waar willen we staan in september 2018?
-      + Fieldlab
+   + Bij de start van het academisch jaar 18/19 (sept 2018) is de Smart cell (Smart Business & Technology centre?) op IPKW operationeel om technische en bedrijfseconomische vraagtukken van bedrijven samen met studenten, docent onderzoekers  en lectoren te helpen oplossen.
    + Hoe komen we daar?
-      + Team formeren (Witek, Peter, ??, ??)
-      + Financiering organiseren
+      
+3. Acties
+   + Team formeren (Witek, Peter, ??, ??)
+   + Financiering organiseren
          + Peter bezig met KIEM en plant een Proeftuinaanvraag, Anne-Marie
          + Testloods (Clean Mobility Center) beschikbaar, Hardware wordt gedoneerd (wel transportkosten)
          + IPKW rekent af via erfpacht
-3. Betrekken Bedrijfskunde
-4. Betrekken Organisaties
-5. Realisatie Smart Cell
+   + Betrekken Bedrijfskunde
+   + Betrekken Organisaties
+4. Realisatie Smart Cell
    + Project gebruiken voor koppeling Economie en Technologie
    + Netwerk Bram en Peter: Samenwerkingsverbanden vastleggen, NDAs, Open Source
    
