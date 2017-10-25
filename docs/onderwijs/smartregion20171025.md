@@ -17,7 +17,6 @@ Aanwezig: Anne-Marie Haanstra, Peter Verschut, Bram Veenhuizen en Witek ten Hove
          + Later betrekken
 2. Doelstellingen
    + Bij de start van het academisch jaar 18/19 (sept 2018) is de Smart cell (Smart Business & Technology centre?) op IPKW operationeel om technische en bedrijfseconomische vraagtukken van bedrijven samen met studenten, docent onderzoekers  en lectoren te helpen oplossen.
-   + Hoe komen we daar?
       
 3. Acties
    + Team formeren (Witek, Peter, ??, ??)
@@ -27,6 +26,7 @@ Aanwezig: Anne-Marie Haanstra, Peter Verschut, Bram Veenhuizen en Witek ten Hove
          + IPKW rekent af via erfpacht
    + Betrekken Bedrijfskunde
    + Betrekken Organisaties
+   
 4. Realisatie Smart Cell
    + Project gebruiken voor koppeling Economie en Technologie
    + Netwerk Bram en Peter: Samenwerkingsverbanden vastleggen, NDAs, Open Source
