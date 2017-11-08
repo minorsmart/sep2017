@@ -1,0 +1,35 @@
+---
+title: "Process Mining"
+subtitle: "Entropy"
+output: html_notebook
+---
+
+This notebook explains the concept of entropy.
+
+```{r}
+# Function to calculate entropy for a single node
+entropyCalc <- function(splitvec) {
+  
+  total <- sum(splitvec)
+  p <- splitvec / total
+  
+  entropy <- sapply(p, function(x) x*log2(x))
+  return(-sum(entropy))
+  
+}
+
+# Calculate entropies at different levels
+obsT <- c(3,5)
+entrT <- entropyCalc(obsT)
+
+obsM <- c(3,5)
+entrM <- entropyCalc(obsM)
+
+obsF <- c(1,7)
+entrF <- entropyCalc(obsF)
+
+entrMF <- 0.5*entrM + 0.5*entrF
+
+# Return information change
+print(paste("The base entropy is", entrT, "and the new entropy is", entrMF, "Therefore there was an information change of", entrT - entrMF))
+```
