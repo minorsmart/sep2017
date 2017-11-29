@@ -10,6 +10,10 @@ This notebook explains the concept of entropy.
 # Function to calculate entropy for a single node
 entropyCalc <- function(splitvec) {
   
+  if(0 %in% splitvec) {
+    return(0)
+  }
+  
   total <- sum(splitvec)
   p <- splitvec / total
   
@@ -22,10 +26,10 @@ entropyCalc <- function(splitvec) {
 obsT <- c(3,5)
 entrT <- entropyCalc(obsT)
 
-obsM <- c(3,5)
+obsM <- c(1,3)
 entrM <- entropyCalc(obsM)
 
-obsF <- c(1,7)
+obsF <- c(1,0)
 entrF <- entropyCalc(obsF)
 
 entrMF <- 0.5*entrM + 0.5*entrF
