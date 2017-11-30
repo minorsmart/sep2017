@@ -1,0 +1,33 @@
+---
+title: "Studietraject"
+author: "Witek ten Hove"
+date: "11/29/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## R Markdown
+
+Tijdens het minortraject worden verschillende categorieen activiteiten aangeboden:
+
++ Online opdrachten - hiermee kan een student aantonen dat hij over de competenties *Herkennen / Analyseren / Diagnosticeren* en *communiceert op effectieve wijze zijn bevindingen naar verschillende doelgroepen* beschikt
++ Bedrijfsbezoeken - - hiermee kan een student aantonen dat hij over de competenties *Herkennen / Analyseren / Diagnosticeren* en *communiceert op effectieve wijze zijn bevindingen naar verschillende doelgroepen* beschikt
+
+```{r cars}
+library(gsheet)
+
+compet <- gsheet2tbl()
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

@@ -1,0 +1,120 @@
+
+<!doctype html>
+<html>
+<head>
+    <title>Activiteiten</title>
+
+    <style>
+        body {
+            color: #d3d3d3;
+            font: 12pt arial;
+            background-color: white;
+        }
+
+        #mynetwork {
+            width: 800px;
+            height: 600px;
+            border: 1px solid white;
+            background-color: #FFCF31;
+        }
+    </style>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css" rel="stylesheet" type="text/css"/>
+
+    
+</head>
+
+<body>
+
+<div id="mynetwork"></div>
+<script type="text/javascript">
+    var color = 'gray';
+    var len = undefined;
+    var DIR = 'img/'
+
+    var nodes = new vis.DataSet([
+        {id: 0, label: "Online\nopdrachten", group: 0,  shape: 'circularImage', image: DIR + 'task.jpg'},
+        {id: 1, label: "Bedrijfs\nbezoeken", group: 0,  shape: 'circularImage', image: DIR + 'bezoek.jpg'},
+        {id: 2, label: "Inspiratie\nsessies", group: 0,  shape: 'circularImage', image: DIR + 'inspiratie.png'},
+        {id: 3, label: "Workshop", group: 1,  shape: 'circularImage', image: DIR + 'workshop.jpg'},
+        {id: 4, label: "Kennisbank", group: 2,  shape: 'circularImage', image: DIR + 'knowhow.jpg'},
+        {id: 5, label: "Seminar", group: 3,  shape: 'circularImage', image: DIR + 'seminar.jpg'},
+        {id: 6, label: "Terugkomdag", group: 3,  shape: 'circularImage', image: DIR + 'terug.jpg'},
+        {id: 7, label: "Project", group: 3,  shape: 'circularImage', image: DIR + 'project.png'},
+    ]);
+    var edges = new vis.DataSet([
+        {from: 0, to: 1, arrows: {
+               to: {enabled: true, scaleFactor:2, type:'arrow'}
+            }},
+        {from: 1, to: 2, arrows: {
+               to: {enabled: true, scaleFactor:2, type:'arrow'}
+            }},
+        {from: 2, to: 4, arrows: {
+               to: {enabled: true, scaleFactor:2, type:'arrow'}
+            }},
+        {from: 3, to: 2, arrows: {
+               to: {enabled: true, scaleFactor:2, type:'arrow'}
+            }},
+        {from: 3, to: 5, arrows: {
+               to: {enabled: true, scaleFactor:2, type:'arrow'}
+            }},
+        {from: 5, to: 4, arrows: {
+               to: {enabled: true, scaleFactor:2, type:'arrow'}
+            }},
+        {from: 6, to: 5, arrows: {
+               to: {enabled: true, scaleFactor:2, type:'arrow'},
+            }},
+        {from: 7, to: 6, arrows: {
+               to: {enabled: true, scaleFactor:2, type:'arrow'},
+            }}
+            
+    ])
+
+    // create a network
+    var container = document.getElementById('mynetwork');
+    var data = {
+        nodes: nodes,
+        edges: edges
+    };
+    var options = {
+        nodes: {
+            shape: 'dot',
+            size: 100,
+            font: {
+                size: 32,
+                color: '#F13A04',
+                strokeWidth: 10, // px
+                strokeColor: '#ffffff'
+            },
+            borderWidth: 2,
+            fixed: {
+                x:true,
+                y:true
+            }
+        },
+        edges: {
+            width: 2
+        },
+        groups: {
+            1: {color:{background:'white'}},
+            2: {color:{background:'white'}, borderWidth:5, size:140},
+            3: {color:{background:'white'}}
+        },
+        layout: {
+                    hierarchical: {
+                        direction: 'LR',
+                        levelSeparation: 450,
+                        nodeSpacing: 420,
+                        edgeMinimization: true,
+                        sortMethod: 'directed',
+                    }
+        },
+        physics: {
+            enabled: true
+        }
+    };
+    network = new vis.Network(container, data, options);
+</script>
+</body>
+</html>
