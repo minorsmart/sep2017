@@ -112,7 +112,12 @@
         },
         physics: {
             enabled: true
-        }
+        },
+        interaction:{
+            dragNodes:false,
+            dragView: false,
+            zoomView: false
+  }
     };
     network = new vis.Network(container, data, options);
 </script>
