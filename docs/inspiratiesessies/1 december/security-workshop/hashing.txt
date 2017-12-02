@@ -1,0 +1,2 @@
+Antwoorden moet je hashen met het MD5 algoritme.
+Dit kan gedaan worden via de site: md5.cz

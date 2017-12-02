@@ -1,0 +1,3 @@
+Tool.bat is een BATCH programma. Het programma bevat een flag. Waar zit die? (deze is al gehashed)
+
+Punten: 5

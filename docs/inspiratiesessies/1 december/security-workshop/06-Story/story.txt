@@ -1,0 +1,6 @@
+Het Word document bevat een verborgen bericht, gebruik je hacking skills om het
+bericht te achterhalen.
+
+Maak van het verborgen bericht een hash, dit is je antwoord.
+
+Punten: 10
