@@ -1,0 +1,8 @@
+Dit PHP script bevat de flag, als je het bestand nu uitvoert krijg je maar de eerste
+4 karakters van je flag. Hoe kom je aan de rest?
+
+* Je kan online PHP testen via: http://sandbox.onlinephpfunctions.com/
+
+Er zijn 3 manieren om erachter te komen.
+
+Punten: 10 per manier

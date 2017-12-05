@@ -1,0 +1,12 @@
+Dit is een CrackMe opdracht, dit is een tool die je dient te activeren, maar je hebt geen
+serial key, hoe ga je dit doen?
+
+Tips:
+- De tool is gemaakt in C#.
+- Je kunt een kijkje nemen in een .exe bestand met een dissambler.
+
+* De basis hiervan wordt ook gebruikt om games te 'kraken'.
+
+Maak een hash van de serial key.
+
+Punten: 20

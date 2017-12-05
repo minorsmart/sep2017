@@ -1,0 +1,24 @@
+moodle-ip: 94.130.128.18 (dig bkmoodle.femplaza.nl of website)
+moodle-server: apache (curl -I bkmoodle.femplaza.nl of website)
+moodle-ssl: Let's Encrypt (zie browser)
+history: volta (reverse img)
+life-is-a-batch: (edit)
+story: (uitpakken met een zipper)
+steganografie: (3de hit via google steganografie, kwebbel)
+session-login: (false naar true veranderen in URL)
+triple-php: (base64 decode, substr 4 naar 9999, echo $flag)
+crackme-part1: GJHDU-TXJSL-PWOQS-XBCNX (openen met ILSpy)
+
+moodle-ip: 372e95082971abc4284b771dfca39fe3
+moodle-server: b6efd606d118d0f62066e31419ff04cc
+moodle-ssl: 3752cda04a792ae2f7730d38e7953725 
+history: a1423b7bbd7522605a6267121a91e6f1
+life-is-a-batch: 42528dc08961d7c1ab8be42dd8eb5ea8
+story: eb64909f74a28fc8943a0066e9363359
+steganografie: ac3fdaabe0e7ac0569eb6831d71af4f3
+session-login: 09fac1f7c1beb4868e640e606bbaec44
+triple-php: 2348hbf87br8b25vb2836fv786v
+crackme-part1: 89b66749dc6e088d91512c78d8b710cb
+crackme-part2: b951e4be1de9d90f0ccf79366b04548e
+
+

@@ -1,0 +1,4 @@
+Zoek uit wat de naam is van de webserver waar Moodle op draait. Maak hier een hash van (lowercase).
+
+Punten: 10
+Bonus: Extra 10 punten als je ons kunt laten zien hoe het via een commando moet.

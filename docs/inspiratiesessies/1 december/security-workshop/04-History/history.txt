@@ -1,0 +1,10 @@
+Wie is de persoon op deze afbeelding?
+
+Maak een hash van de achternaam in kleine letters.
+
+Tips:
+- Hij leefde in twee eeuwen 1700-1800.
+- Hij is een Europeaan.
+- Napoleon was een fan van hem.
+
+Punten: 10
