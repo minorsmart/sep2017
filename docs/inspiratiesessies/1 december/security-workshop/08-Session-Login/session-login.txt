@@ -1,0 +1,7 @@
+Bekijk de volgende pagina: https://www.canki.nl/ctf/session-login/
+
+Dit is een voorbeeld van een onveilig login script. Probeer toegang te krijgen tot Alluris.
+
+Nadat je bent ingelogd krijg je een gehashte flag te zien.
+
+Punten: 10

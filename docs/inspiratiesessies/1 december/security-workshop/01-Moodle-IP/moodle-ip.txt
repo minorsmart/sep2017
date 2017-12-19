@@ -1,0 +1,4 @@
+Zoek uit waar onze Moodle gehost is. Maak een hash van het IP adres, dit is het antwoord.
+
+Punten: 5
+Bonus: 10 punten extra als je kunt laten zien hoe dit via de command line moet.

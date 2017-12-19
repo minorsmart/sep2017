@@ -1,0 +1,6 @@
+Wie is de issuer van het SSL certificaat gebruikt bij Moodle?
+
+Tips:
+- Zoek uit wat een issuer is.
+
+Punten: 10

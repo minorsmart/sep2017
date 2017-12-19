@@ -1,0 +1,10 @@
+C:\Users\Qarizma\Documents\Visual Studio 2017\CrackMe\CrackMe\bin\Debug\CrackMe.exe.config
+C:\Users\Qarizma\Documents\Visual Studio 2017\CrackMe\CrackMe\bin\Debug\CrackMe.exe
+C:\Users\Qarizma\Documents\Visual Studio 2017\CrackMe\CrackMe\bin\Debug\CrackMe.pdb
+C:\Users\Qarizma\Documents\Visual Studio 2017\CrackMe\CrackMe\obj\Debug\CrackMe.csprojResolveAssemblyReference.cache
+C:\Users\Qarizma\Documents\Visual Studio 2017\CrackMe\CrackMe\obj\Debug\CrackMe.Form1.resources
+C:\Users\Qarizma\Documents\Visual Studio 2017\CrackMe\CrackMe\obj\Debug\CrackMe.Properties.Resources.resources
+C:\Users\Qarizma\Documents\Visual Studio 2017\CrackMe\CrackMe\obj\Debug\CrackMe.csproj.GenerateResource.Cache
+C:\Users\Qarizma\Documents\Visual Studio 2017\CrackMe\CrackMe\obj\Debug\CrackMe.csproj.CoreCompileInputs.cache
+C:\Users\Qarizma\Documents\Visual Studio 2017\CrackMe\CrackMe\obj\Debug\CrackMe.exe
+C:\Users\Qarizma\Documents\Visual Studio 2017\CrackMe\CrackMe\obj\Debug\CrackMe.pdb
