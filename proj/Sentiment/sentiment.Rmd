@@ -60,7 +60,7 @@ for (m in 2:dim(rawData)[2]) {
 
 Now the data can be visualised using the `plotly` package.
 
-## Quarterly Results {.tabset}
+## Sentimentmetingen {.tabset}
 
 ### Chart 
 
