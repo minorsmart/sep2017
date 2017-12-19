@@ -76,7 +76,8 @@ f <- list(
 )
 x <- list(
   title = "Polariteit (neg / pos)",
-  titlefont = f
+  titlefont = f,
+  range = c(-1, 1)
 )
 y <- list(
   title = "Subjectiviteit",
