@@ -19,10 +19,10 @@ Bedrijven moeten hun processen, producten en dienstverlening drastisch verandere
 Het is voor bedrijven van belang zes bouwstenen in acht te nemen. Iedere organisatie zal deze bouwstenen anders inrichten maar de basis blijft gelijk (Stofberg, 2017). 
 
 1. Verras je klanten
-Maak het je klanten makkelijker. Haal complexiteit naar de eigen bedrijfsvoering toe en maak het klanten zo makkelijk dat zij er zelf geen omkijken meer naar hebben. Denk aan Tikkie, het betalen met de smartphone en überhaupt contactloos betalen. 
+  Maak het je klanten makkelijker. Haal complexiteit naar de eigen bedrijfsvoering toe en maak het klanten zo makkelijk dat zij er zelf geen omkijken meer naar hebben. Denk aan Tikkie, het betalen met de smartphone en überhaupt contactloos betalen. 
 
 2. Ontwikkel nieuwe businessmodellen
-In de veranderende omgeving wordt alles anders. Organisaties geen steeds verder naar het abonnementsmodel. Voorheen werden muziek, film en boeken nog in een winkel gekocht tegenwoordig nemen Spotify, Netflix, Videoland en Storytell dit soort functies over door middel van een maandelijks bedrag. Klanten willen ergens gebruik van maken maar hoeven het zelf niet meer te bezitten. 
+  In de veranderende omgeving wordt alles anders. Organisaties geen steeds verder naar het abonnementsmodel. Voorheen werden muziek, film en boeken nog in een winkel gekocht tegenwoordig nemen Spotify, Netflix, Videoland en Storytell dit soort functies over door middel van een maandelijks bedrag. Klanten willen ergens gebruik van maken maar hoeven het zelf niet meer te bezitten. 
 
 3. Ontdek nieuwe mogelijkheden van informatie en technologie
 Er moet een nieuwe manier van werken ontstaan. Er moet in de gaten gehouden worden wat klanten kopen, hoeveel klanten van dit product kopen en op welk tijdstip. Zara heeft bijvoorbeeld in elk kleding stuk een RFID-tag gevestigd. Zo kan er precies worden bekeken wat er met een kledingstuk gebeurt, hoe het door de winkel verplaatst wordt en hoe vaak een kledingstuk gepast wordt. Zara is tevens in staat kleding binnen 48 uur te bedenken, te ontwerpen, fabriceren en in alle winkels te leggen (Groningen, 2017).
