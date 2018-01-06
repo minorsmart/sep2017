@@ -18,25 +18,24 @@ Bedrijven moeten hun processen, producten en dienstverlening drastisch verandere
 
 Het is voor bedrijven van belang zes bouwstenen in acht te nemen. Iedere organisatie zal deze bouwstenen anders inrichten maar de basis blijft gelijk (Stofberg, 2017). 
 
-1. Verras je klanten
-  Maak het je klanten makkelijker. Haal complexiteit naar de eigen bedrijfsvoering toe en maak het klanten zo makkelijk dat zij er zelf geen omkijken meer naar hebben. Denk aan Tikkie, het betalen met de smartphone en überhaupt contactloos betalen. 
+1. *Verras je klanten* - Maak het je klanten makkelijker. Haal complexiteit naar de eigen bedrijfsvoering toe en maak het klanten zo makkelijk dat zij er zelf geen omkijken meer naar hebben. Denk aan Tikkie, het betalen met de smartphone en überhaupt contactloos betalen. 
 
-2. Ontwikkel nieuwe businessmodellen
-  In de veranderende omgeving wordt alles anders. Organisaties geen steeds verder naar het abonnementsmodel. Voorheen werden muziek, film en boeken nog in een winkel gekocht tegenwoordig nemen Spotify, Netflix, Videoland en Storytell dit soort functies over door middel van een maandelijks bedrag. Klanten willen ergens gebruik van maken maar hoeven het zelf niet meer te bezitten. 
+2. *Ontwikkel nieuwe businessmodellen* - In de veranderende omgeving wordt alles anders. Organisaties geen steeds verder naar het abonnementsmodel. Voorheen werden muziek, film en boeken nog in een winkel gekocht tegenwoordig nemen Spotify, Netflix, Videoland en Storytell dit soort functies over door middel van een maandelijks bedrag. Klanten willen ergens gebruik van maken maar hoeven het zelf niet meer te bezitten. 
 
-3. Ontdek nieuwe mogelijkheden van informatie en technologie
+3. *Ontdek nieuwe mogelijkheden van informatie en technologie* - 
 Er moet een nieuwe manier van werken ontstaan. Er moet in de gaten gehouden worden wat klanten kopen, hoeveel klanten van dit product kopen en op welk tijdstip. Zara heeft bijvoorbeeld in elk kleding stuk een RFID-tag gevestigd. Zo kan er precies worden bekeken wat er met een kledingstuk gebeurt, hoe het door de winkel verplaatst wordt en hoe vaak een kledingstuk gepast wordt. Zara is tevens in staat kleding binnen 48 uur te bedenken, te ontwerpen, fabriceren en in alle winkels te leggen (Groningen, 2017).
 
-Verken data en professionaliseer datamanagement 
+4. *Verken data en professionaliseer datamanagement* -  
 Data is de sleutel tot digitaal succes maar het moet wel mogelijk zijn om zowel interne als externe data te analyseren. De applicatie- en datasets moeten hiervoor een transformatie ondergaan. Data kan namelijk voor handen zijn maar moet wel optimaal gebruikt worden. Kassasystemen zoals bij de Albert Heijn kunnen worden gekoppeld aan bonuskaarten en aan het inkoopproces van een leverancier. Zo kunnen er gepersonaliseerde bonusaanbiedingen en kunnen er patronen ontdekt worden in het koopgedrag van huishouden waardoor hierop ingespeeld kan worden. 
 
-Organiseer nieuwe netwerken en wendbare partnerships 
+5. *Organiseer nieuwe netwerken en wendbare partnerships* - 
 Veel bedrijven willen iets nieuws maar dit lukt vaak niet alleen. Door samen te werken komen bedrijven verder. Voorbeelden zijn Douwe Egberts en Philips die samenwerkte met het product Senseo, T-Systems en Huawei die samen de Cloud servicemarkt hebben betreden en Aegon en HCL die samenwerken om hun krachten te bundelen om sneller innovatieve producten op de markt te kunnen zetten. 
 
-Organiseer innovatief vermogen
+6. *Organiseer innovatief vermogen* 
 Organisaties dienen gebruik te maken van al het innovatief vermogen om zich heen. Klanten, leveranciers en vele andere stakeholders die dagelijks te maken hebben met het product kunnen meer bieden dan organisaties denken (Stofberg, 2017). 
 
-Digitalisering helpt de klant kennen 
+#### Digitalisering helpt de klant kennen
+
 Organisaties moeten gebruik maken van de digitale mogelijkheden om informatie te krijgen over stijl van leven van klanten. Alle data die over een klant bekend is moet in kaart worden gebracht en bij elk type contact met de klant worden aangevuld (Weill & Woerner, 2015). Op deze manier weten bedrijven wie een klant precies is wat deze klant verwacht. De organisatie moet hier haar processen op aan passen en vervolgens kan er met de technologieën van vandaag op in worden gespeeld. 
 
 Bronnen 
