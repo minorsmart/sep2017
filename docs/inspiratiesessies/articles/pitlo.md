@@ -6,10 +6,10 @@ Dankzij steeds meer nieuwe technologieën en gebruik van systemen is digitaliser
 
 Bedrijven moeten tegenwoordig meegaan met veranderingen. De wereld verandert steeds sneller en bedrijven moet hier flexibel en snel mee om gaan. Alles wordt goedkoper, sneller, beter, kleiner, slimmer, opener en eenvoudiger. 
 
-Onderscheidend zijn
+#### Onderscheidend zijn
 Bedrijven moeten zich onderscheiden, steeds nieuwe opties bieden, klanten rijkelijk informeren en persoonlijk bedienen. Daarnaast is niet alleen het goedkoper zijn een pré maar gaat het om een hele andere ervaring toevoegen aan een product of dienst. 
 
-Alles draait om eenvoud
+#### Alles draait om eenvoud
 Alles moet makkelijker, applicaties moeten makkelijk gebruikt kunnen worden, bedrijven moeten makkelijk te benaderen zijn en het moet eenvoudig zijn producten te kopen of te reserveren. De maatschappij wil makkelijk kunnen reserveren bij een restaurant, hotel of bioscoop en wil zorg en schade makkelijk en meteen kunnen regelen. Inzicht in de hoeveelheid vrije zitplaatsen, kamers of tafels er nog vrij zijn bij een horecagelegenheid. Waar een besteld pakketje op dit moment is, wanneer het pakketje daadwerkelijk bezorgd wordt. 
 
 Bedrijven moeten hun processen, producten en dienstverlening drastisch veranderen. Er zijn heel veel nieuwe technologieën en mogelijkheden op het gebied van data en informatie die met beide handen gegrepen moet worden (Stofberg, 2017). 
@@ -20,7 +20,9 @@ Het is voor bedrijven van belang zes bouwstenen in acht te nemen. Iedere organis
 
 1. *Verras je klanten* - Maak het je klanten makkelijker. Haal complexiteit naar de eigen bedrijfsvoering toe en maak het klanten zo makkelijk dat zij er zelf geen omkijken meer naar hebben. Denk aan Tikkie, het betalen met de smartphone en überhaupt contactloos betalen. 
 
-2. *Ontwikkel nieuwe businessmodellen* - In de veranderende omgeving wordt alles anders. Organisaties geen steeds verder naar het abonnementsmodel. Voorheen werden muziek, film en boeken nog in een winkel gekocht tegenwoordig nemen Spotify, Netflix, Videoland en Storytell dit soort functies over door middel van een maandelijks bedrag. Klanten willen ergens gebruik van maken maar hoeven het zelf niet meer te bezitten. 
+2. *Ontwikkel nieuwe businessmodellen* - In de veranderende omgeving wordt alles anders. Organisaties geen steeds verder naar het abonnementsmodel. Voorheen werden muziek, film en boeken nog in een winkel gekocht tegenwoordig nemen Spotify, Netflix, Videoland en Storytell dit soort functies over door middel van een maandelijks bedrag. Klanten willen ergens gebruik van maken maar hoeven het zelf niet meer te bezitten.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-SAe0KBPJ3k" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 3. *Ontdek nieuwe mogelijkheden van informatie en technologie* - 
 Er moet een nieuwe manier van werken ontstaan. Er moet in de gaten gehouden worden wat klanten kopen, hoeveel klanten van dit product kopen en op welk tijdstip. Zara heeft bijvoorbeeld in elk kleding stuk een RFID-tag gevestigd. Zo kan er precies worden bekeken wat er met een kledingstuk gebeurt, hoe het door de winkel verplaatst wordt en hoe vaak een kledingstuk gepast wordt. Zara is tevens in staat kleding binnen 48 uur te bedenken, te ontwerpen, fabriceren en in alle winkels te leggen (Groningen, 2017).
@@ -38,7 +40,13 @@ Organisaties dienen gebruik te maken van al het innovatief vermogen om zich heen
 
 Organisaties moeten gebruik maken van de digitale mogelijkheden om informatie te krijgen over stijl van leven van klanten. Alle data die over een klant bekend is moet in kaart worden gebracht en bij elk type contact met de klant worden aangevuld (Weill & Woerner, 2015). Op deze manier weten bedrijven wie een klant precies is wat deze klant verwacht. De organisatie moet hier haar processen op aan passen en vervolgens kan er met de technologieën van vandaag op in worden gespeeld. 
 
-Bronnen 
+
+
+Bronnen
+https://hbr.org/insight-center/how-digital-business-models-are-changing
+http://www.iot-lab.ch/wp-content/uploads/2014/11/EN_Bosch-Lab-White-Paper-GM-im-IOT-1_3.pdf
+https://link.springer.com/content/pdf/10.1186%2Fs41469-017-0018-x.pdf
+https://www.amazon.de/Network-Imperative-Survive-Digital-Business/dp/1633692051/ref=sr_1_10?s=books-intl-de&ie=UTF8&qid=1515247231&sr=1-10&keywords=digital+business+model
 Groningen, J. Van (2017, 24 mei). Zes bouwstenen voor de digitale transformatie. Geraadpleegd op 8 januari 2018, van https://ibestuur.nl/partner-ibm/zes-bouwstenen-voor-de-digitale-transformatie
 Stofberg, B. (2017, november). De zes Bouwstenen van Digitale Transformatie. Geraadpleegd op 4 januari 2018, van  https://www.quintgroup.com/nl-nl/insights/de-zes-bouwstenen-van-digitale-transformatie/
 Weill, P. & Woerner, S. L.(2015). Digitalisering: de kansen en bedreigingen voor bedrijven. Geraadpleegd op 4 januari 2018, van http://www.managementexecutive.nl/artikel/14736/Digitalisering-de-kansen-en-bedreigingen-voor-bedrijven
