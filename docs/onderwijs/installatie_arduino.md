@@ -8,8 +8,8 @@ zul je eerst je mac moeten vertellen dat je weet wat je doet.
 
 Normaal gesproken weigert OS X het installeren van programma's
 die niet uit de app store komen. Er zijn twee manieren om OS X te
-vertellen dat je de programma's wel vertrouwd en het standaard gedrag
-wil overrulen. De makkelijkste is de volgende:
+vertellen dat je de programma's wel vertrouwt en het standaard gedrag
+wilt overrulen. De makkelijkste is de volgende:
 
     1. Geef een rechter muis klik op de .dmg of .pkg die je hebt gedownload.
 
@@ -18,19 +18,19 @@ Dan verschijnt er een menu naast de file. Bovenin staat 'open met'.
     2. Klik op `open met`, je ziet nu dat je het bestand met 'installer' kan openen.
     3. Klik op `installer`
 
-Je krijgt nu een mededeling dat het gevaarlijk is gedownloadde bestanden
+Je krijgt nu een mededeling dat het gevaarlijk is gedownloade bestanden
 te installeren. Je hebt nu echter toch de mogelijkheid op 'openen' te
 klikken. Die had je normaal gesproken niet gehad als je meteen dubbel klikt 
 op de .dmg of .pkg file.
 
 ## Wat gaan we doen? ##
 Om de electronica te kunnen programmeren moet je verschillende programma's
-hebben. Ten eerste een soort tekst verwerkingsprogramma om software
+hebben. Ten eerste een soort tekstverwerkingsprogramma om software
 mee te schrijven. Dit heet een IDE (integrated development environment). 
 Ten tweede een programma om wat je geschreven hebt om te zetten in nullen 
 en enen die meteen door een processor begrepen worden (een compiler) en 
 ten derde een programma dat het bestand met nullen en enen naar het board 
-kopieerd. Dit noemt men het "flashen" van een board. Je schrijft namelijk
+kopieert. Dit noemt men het "flashen" van een board. Je schrijft namelijk
 je gemaakte programma naar het `flash` geheugen van het board.
 
 We gaan dus eerst de 'tekstverwerker' installeren (Arduino IDE). Die bevat
@@ -102,5 +102,5 @@ Als het goed is ziet de directory structuur er nu zo uit:
 Als alles gelukt is, hoef je nu alleen maar de Arduino applicatie te
 starten via 'launch pad'. Daar vind je de Arduino applicatie naast
 alle andere applicaties. Als je het start kun je via 'File' en 'Open'
-de bron code files openen die in de directory: ~/Documents/Arduino/src/
+de broncode files openen die in de directory: ~/Documents/Arduino/src/
 staan.
